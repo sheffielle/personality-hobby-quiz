@@ -73,6 +73,31 @@ document.addEventListener("DOMContentLoaded", () => {
     }).join('');
 
     codeTitle.textContent = `Your Personality Code: ${code}`;
+    // Trait map from personality code to full label
+    const traitLabels = {
+      Mind:         { O: "Outgoing", P: "Versatile", I: "Reflective" },
+      Information:  { P: "Practical", O: "Open-Minded", I: "Imaginative" },
+      'Decision-Making': { A: "Analytical", I: "Integrative", E: "Empathetic" },
+      Lifestyle:    { O: "Organized", A: "Adaptive", S: "Spontaneous" },
+      Adventurousness: { B: "Bold", M: "Measured", C: "Careful" }
+    };
+    
+    // Decode each trait from code
+    const labels = axes.map((axis, i) => {
+      const letter = code[i];
+      return traitLabels[axis][letter] || "";
+    }).join(" • ");
+    
+    // Add decoded traits to the results section
+    const traitLine = document.createElement("p");
+    traitLine.style.marginTop = "10px";
+    traitLine.style.fontWeight = "bold";
+    traitLine.style.color = "#ffeaa7";
+    traitLine.textContent = labels;
+    
+    // Insert just under the code title
+    codeTitle.insertAdjacentElement("afterend", traitLine);
+    
     quizPage.classList.remove('active');
     summaryPage.classList.add('active');
     // summaryPage.scrollIntoView({ behavior: 'smooth' });
