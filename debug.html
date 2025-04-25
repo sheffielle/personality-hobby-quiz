@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quiz 1 Debug POC</title>
+  <style>
+    /* minimal styling so you can see the quiz */
+    body { font-family: sans-serif; background:#0d1b2a; color:white; }
+    .quiz-card { background:#1f2a44; padding:20px; border-radius:10px; max-width:600px; margin:40px auto; }
+    .question-block { margin-bottom:15px; }
+    label { display:block; background:#fdd835; color:#1a1a1a; margin:4px 0; padding:8px; border-radius:6px; }
+    button { padding:10px 20px; margin-top:10px; }
+    #result { margin-top:20px; }
+  </style>
+  <!-- load markdown parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <div class="quiz-card">
+    <h1>Who Are You? (Debug POC)</h1>
+    <form id="quiz-form"></form>
+    <button type="button" id="submit-btn">Submit</button>
+    <div id="result"></div>
+  </div>
+
+  <script>
+    console.log("🔧 Debug POC script loaded");
+
+    const quizForm = document.getElementById("quiz-form");
+    const submitBtn = document.getElementById("submit-btn");
+    const resultDiv = document.getElementById("result");
+
+    const questions = [
+      { axis: 'Mind', text: 'After a long week, how do you most like to recharge?', options: ['Being around people','Sometimes out, sometimes in','Quiet time alone'] },
+      { axis: 'Information', text: 'When learning something new, I prefer:', options: ['Clear steps','Explore hands-on','Abstract ideas'] },
+      { axis: 'Lifestyle', text: 'My calendar is usually:', options: ['Structured','Flexible','Spontaneous'] }
+    ];
+    console.log("Questions ready:", questions);
+
+    const letterMap = {
+      Mind: ['O','P','I'],
+      Information: ['P','O','I'],
+      Lifestyle: ['O','A','S']
+    };
+
+    function buildQuiz() {
+      quizForm.innerHTML = "";
+      questions.forEach((q, idx) => {
+        const block = document.createElement("div");
+        block.className = "question-block";
+        block.innerHTML = `<h3>${idx+1}. ${q.text}</h3>`;
+        q.options.forEach((opt,i) => {
+          block.innerHTML += `
+            <label>
+              <input type="radio" name="q${idx}" value="${q.axis}-${i}" required>
+              ${opt}
+            </label>`;
+        });
+        quizForm.appendChild(block);
+      });
+      console.log("✅ Quiz built with", questions.length, "questions");
+    }
+
+    function calculateAndDisplay() {
+      console.log("🔍 Calculating result...");
+      const formData = new FormData(quizForm);
+      const counts = { Mind:[0,0,0], Information:[0,0,0], Lifestyle:[0,0,0] };
+      for (let [_, val] of formData.entries()) {
+        const [axis, idx] = val.split("-");
+        counts[axis][+idx]++;
+      }
+      const code = questions.map((q,i) => {
+        const arr = counts[q.axis];
+        return letterMap[q.axis][ arr.indexOf(Math.max(...arr)) ];
+      }).join("");
+      console.log("→ Code is", code);
+
+      resultDiv.innerHTML = `<h2>Your Code: ${code}</h2><p>Loading summary...</p>`;
+      fetch(`Summaries/${code}_summary.md`)
+        .then(r => r.ok ? r.text() : Promise.reject("not found"))
+        .then(md => {
+          resultDiv.innerHTML += `<div>${marked.parse(md)}</div>`;
+          console.log("✅ Summary rendered");
+        })
+        .catch(err => {
+          resultDiv.innerHTML += `<p>Summary not available (${err}).</p>`;
+          console.warn(err);
+        });
+    }
+
+    buildQuiz();
+    submitBtn.addEventListener("click", calculateAndDisplay);
+  </script>
+</body>
+</html>

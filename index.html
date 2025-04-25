@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Personality Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- Markdown parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <div class="background">
+    <!-- Page 1: Quiz -->
+    <div class="page active" id="page-quiz">
+      <div class="quiz-card">
+        <h1>Who Are You?</h1>
+        <p>Answer each question by selecting the option that best describes you.</p>
+        <form id="quiz-form"></form>
+        <button type="button" id="submit-btn">Submit</button>
+      </div>
+    </div>
+
+    <!-- Page 2: Summary -->
+    <div class="page" id="page-summary">
+      <div class="quiz-card">
+        <h1 id="code-title"></h1>
+        <div id="summary-content"></div>
+        <button type="button" id="retake-btn">Retake Quiz</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
