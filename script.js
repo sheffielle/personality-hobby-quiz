@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
   ];
 
   const letterMap = {
-    Mind: ['O','P','I'],
+    Mind: ['O','V','R'],
     Information: ['P','O','I'],
     'Decision-Making': ['A','I','E'],
     Lifestyle: ['O','A','S'],
@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", () => {
     codeTitle.textContent = `Your Personality Code: ${code}`;
     // Trait map from personality code to full label
     const traitLabels = {
-      Mind:         { O: "Outgoing", P: "Versatile", I: "Reflective" },
+      Mind:         { O: "Outgoing", V: "Versatile", R: "Reflective" },
       Information:  { P: "Practical", O: "Open-Minded", I: "Imaginative" },
       'Decision-Making': { A: "Analytical", I: "Integrative", E: "Empathetic" },
       Lifestyle:    { O: "Organized", A: "Adaptive", S: "Spontaneous" },
