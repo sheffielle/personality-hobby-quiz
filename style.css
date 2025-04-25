@@ -5,15 +5,20 @@ body, html {
   font-family: 'Segoe UI', sans-serif;
   background-color: #0d1b2a;
   width: 100vw;
-  height: 100vh;
-  overflow: hidden; /* lock the viewport */
+  /* let the document scroll vertically */
+  height: auto;
+  min-height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 .background {
   position: relative;
   width: 100%;
-  height: 100%;
+  /* allow the background to grow as page scrolls */
+  min-height: 100vh;
   background: radial-gradient(circle at center, #0d1b2a 0%, #0a0f1f 100%);
+  overflow: hidden;
 }
 .background::before {
   content: '';
@@ -24,15 +29,17 @@ body, html {
   z-index: 0;
 }
 
-/* Pages fill viewport */
+/* Page containers */
 .page {
   position: absolute;
   top: 0; left: 0;
-  width: 100vw; height: 100vh;
+  width: 100vw;
+  /* allow page container to extend beyond one viewport */
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px;
+  padding: 20px 0;
   box-sizing: border-box;
   opacity: 0;
   transform: translateX(100vw);
@@ -44,20 +51,20 @@ body, html {
   transform: translateX(0);
 }
 
-/* Card container: fixed height for scrolling inside */
+/* Card container: auto height */
 .quiz-card {
   background: linear-gradient(to bottom, #1f2a44, #FFA500, #1f2a44);
   padding: 30px;
   border-radius: 20px;
   width: 90%;
   max-width: 600px;
-  height: 80vh;          /* fill 80% of viewport height */
+  /* remove fixed height so it grows with content */
   box-shadow: 0 15px 30px rgba(0,0,0,0.5);
   color: white;
   display: flex;
   flex-direction: column;
   z-index: 1;
-  overflow: hidden;      /* hide overflow on outer card */
+  overflow: hidden;
 }
 
 /* Headings */
@@ -96,7 +103,7 @@ input[type="radio"] {
   margin-right: 8px;
 }
 
-/* Submit & Retake buttons */
+/* Buttons */
 button {
   margin-top: 20px;
   padding: 14px;
@@ -114,13 +121,13 @@ button:hover {
   background-color: #ffe082;
 }
 
-/* Summary content: scrollable inside the fixed-height card */
+/* Summary area: scrollable internally if needed */
 #summary-content {
   flex: 1;
   overflow-y: auto;
   margin-top: 10px;
   color: #cdd9ed;
-  padding-right: 6px; /* room for scrollbar */
+  padding-right: 6px;
 }
 #summary-content h2,
 #summary-content h3 {
@@ -132,7 +139,7 @@ button:hover {
   margin-bottom: 10px;
 }
 
-/* Pin Retake button at bottom */
+/* Pin Retake button at bottom of card */
 #retake-btn {
   margin-top: auto;
 }
