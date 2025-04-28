@@ -1,6 +1,5 @@
-# RPIAC_summary.md (Stoneguard)
-
-**Who is the Stoneguard?**  
+# Stoneguard
+## Who is the Stoneguard?
 **Code: R-P-I-A-C**
 
 The Stoneguard is unwavering protection — strong, principled, and deeply committed to safeguarding others. They don’t just defend against threats; they create a sense of safety and stability, offering others the security they need to face challenges head-on. Their strength lies in their ability to remain steadfast, offering a foundation of safety and protection, no matter what comes their way.

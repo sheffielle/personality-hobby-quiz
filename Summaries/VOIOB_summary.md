@@ -1,6 +1,5 @@
-## 📄 VOIOB_summary.md (Fieldmind)
-
-**Who is the Fieldmind?**  
+# Fieldmind
+## Who is the Fieldmind?
 **Code: V-O-I-O-B**
 
 The Fieldmind is the quiet sensor — observant, steady, and remarkably tuned in to the invisible patterns that shape daily life. They are the kind of person who walks into a room and instantly notices the energy, the imbalance, the overlooked details. Fieldminds don’t need to speak loudly to make an impact — they *listen the world into focus*.

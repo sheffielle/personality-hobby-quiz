@@ -1,4 +1,5 @@
-## 🧑‍🏫 Who is the Mentor?  
+# Mentor
+## Who is the Mentor?
 **Code: O-O-E-O-M**
 
 The Mentor is the wise guide — supportive, insightful, and deeply invested in *helping others reach their fullest potential*. They don’t just offer advice — they *empower their mentees to find their own answers*.

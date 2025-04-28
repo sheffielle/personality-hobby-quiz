@@ -1,6 +1,5 @@
-# RPIAB_summary.md (Soulanchor)
-
-**Who is the Soulanchor?**  
+# Soulanchor
+## Who is the Soulanchor?
 **Code: R-P-I-A-B**
 
 The Soulanchor is spiritual stability — devoted, reflective, and unwavering in their dedication to the deeper aspects of life. They don’t just offer emotional support; they stabilize the spirit, providing others with a sense of inner strength and calm. Their strength lies in their ability to be a steady foundation, offering guidance through unwavering commitment and a deep connection to their own inner wisdom.

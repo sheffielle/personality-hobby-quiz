@@ -1,4 +1,5 @@
-## 🕊️ Who is the Emissary?  
+# Emissary
+## Who is the Emissary?
 **Code: O-O-I-A-B**
 
 The Emissary is the messenger of clarity — diplomatic, insightful, and highly skilled at *bridging communication gaps between individuals, groups, and ideas*. They don’t just speak — they *deliver understanding that leads to action*.

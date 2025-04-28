@@ -1,6 +1,5 @@
-# RPIAM_summary.md (Northstar)
-
-**Who is the Northstar?**  
+# Northstar
+## Who is the Northstar?
 **Code: R-P-I-A-M**
 
 The Northstar is unwavering guidance — calm, clear, and always a beacon in times of uncertainty. They don’t just offer advice; they provide a steady point of reference, helping others navigate through the chaos and find their way with inner clarity. Their strength lies in their ability to remain grounded and composed, even in the midst of uncertainty, offering others a sense of direction and purpose.

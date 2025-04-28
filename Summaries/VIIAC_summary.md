@@ -1,6 +1,5 @@
-# VIIAC_summary.md (Stoneweaver)
-
-**Who is the Stoneweaver?**  
+# Stoneweaver
+## Who is the Stoneweaver?
 **Code: V-I-I-A-C**
 
 The Stoneweaver is quiet fortitude — resilient, thoughtful, and unwavering. They don’t create with grand gestures; they build slowly and steadily, laying one stone at a time. Their strength is rooted in subtlety, finding meaning in the small details and lasting impact in carefully crafted design. They don’t need to be loud to make an impact — their influence is felt through enduring results.

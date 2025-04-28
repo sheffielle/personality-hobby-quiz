@@ -1,6 +1,5 @@
-## 📄 VOIAB_summary.md (Blueprinter)
-
-**Who is the Blueprinter?**  
+# Blueprinter
+## Who is the Blueprinter?
 **Code: V-O-I-A-B**
 
 The Blueprinter is the quiet architect — introspective, visionary, and deeply invested in how ideas become realities. They’re not dreamers in the clouds, nor pragmatists with blinders. They are *bridges between imagination and structure*. They live in the space between “what if” and “here’s how.”

@@ -1,6 +1,5 @@
-## 📄 VOISB_summary.md (Connector)
-
-**Who is the Connector?**  
+# Connector
+## Who is the Connector?
 **Code: V-O-I-S-B**
 
 The Connector is the quiet harmonizer — introspective, relational, and deeply tuned into the invisible threads that link people together. They don’t need a spotlight, and they don’t force connection. They simply *notice what’s unspoken* — and gently *weave people toward understanding*.

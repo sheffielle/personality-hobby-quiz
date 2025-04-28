@@ -1,6 +1,5 @@
-# RIISB_summary.md (Fieldstead)
-
-**Who is the Fieldstead?**  
+# Fieldstead
+## Who is the Fieldstead?
 **Code: R-I-I-S-B**
 
 The Fieldstead is quiet peace — grounded, observant, and emotionally enduring. They don’t seek stimulation — they *seek steadiness*. Their strength lies in their unshakable presence, their ability to remain open and grounded in a world that moves too fast. They offer calm not by fleeing the storm — but by *becoming the field that holds it*.

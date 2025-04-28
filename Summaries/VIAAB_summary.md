@@ -1,6 +1,5 @@
-# VIAAB_summary.md (Echobearer)
-
-**Who is the Echobearer?**  
+# Echobearer
+## Who is the Echobearer?
 **Code: V-I-A-A-B**
 
 The Echobearer is empathy made visible — introspective, sensitive, and deeply tuned to the emotional currents of others. They don’t just witness pain; they *carry* it. Not out of obligation, but out of a quiet vow to never let others feel alone in their experience. Their presence is not flashy, but it is *felt* — like a soft echo of everything you’ve been holding in.

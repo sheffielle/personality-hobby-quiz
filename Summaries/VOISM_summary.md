@@ -1,6 +1,5 @@
-## 📄 VOISM_summary.md (Soulwright)
-
-**Who is the Soulwright?**  
+# Soulwright
+## Who is the Soulwright?
 **Code: V-O-I-S-M**
 
 The Soulwright is the quiet alchemist — introspective, soulful, and driven by a deep longing to refine, heal, and elevate the human spirit. They don’t seek attention or acclaim. They’re moved by something deeper — a calling to *craft meaning*, to turn wounds into wisdom, and to *help others come home to themselves*.

@@ -1,4 +1,5 @@
-## 🌉 Who is the Bridgebuilder?  
+# Bridgebuilder
+## Who is the Bridgebuilder?
 **Code: O-O-I-O-B**
 
 The Bridgebuilder is the connector of worlds — thoughtful, perceptive, and naturally gifted at *finding common ground between seemingly distant perspectives*. They don’t just understand both sides — they *weave them into understanding*.

@@ -1,6 +1,5 @@
-# RPASB_summary.md (Treelight)
-
-**Who is the Treelight?**  
+# Treelight
+## Who is the Treelight?
 **Code: R-P-A-S-B**
 
 The Treelight is aspirational support — nurturing, elevating, and always focused on helping others reach their full potential. They don’t just help others grow; they lift them up, like the branches of a tree reaching toward meaning and purpose. Their strength lies in their ability to provide the support and encouragement needed to help others grow and thrive, while always staying grounded in their own sense of purpose.

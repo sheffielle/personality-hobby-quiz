@@ -1,6 +1,5 @@
-# ROISC_summary.md (Heartwright)
-
-**Who is the Heartwright?**  
+# Heartwright
+## Who is the Heartwright?
 **Code: R-O-I-S-C**
 
 The Heartwright is emotional craftsmanship — gentle, intuitive, and deeply devoted to belonging. They don’t just feel — they *shape connection* from those feelings, building bridges through tenderness and trust. Their strength lies in their ability to make closeness feel crafted, not accidental — like a home that’s been built, brick by brick, from care.

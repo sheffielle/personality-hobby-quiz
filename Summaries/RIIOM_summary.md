@@ -1,6 +1,5 @@
-# RIIOM_summary.md (Nightrider)
-
-**Who is the Nightrider?**  
+# Nightrider
+## Who is the Nightrider?
 **Code: R-I-I-O-M**
 
 The Nightrider is steady courage — calm, perceptive, and deeply resilient. They don’t shy away from the hard places — they *navigate them*. Their strength lies in their quiet endurance, their ability to stay grounded when others would flee. They move through darkness not with fearlessness, but with *presence*.

@@ -1,6 +1,5 @@
-## 📄 VPAOC_summary.md (Sensemaker)
-
-**Who is the Sensemaker?**  
+# Sensemaker
+## Who is the Sensemaker?
 **Code: V-P-A-O-C**
 
 The Sensemaker is the quiet interpreter — observant, deliberate, and deeply attuned to the patterns that stitch the world together. They don’t just notice things — they *weave together meaning from the subtle and unseen*, uncovering connections others might miss entirely. Life, to the Sensemaker, is an unfolding tapestry — full of threads that, with enough patience, reveal something greater than the sum of their parts.

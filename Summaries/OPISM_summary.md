@@ -1,4 +1,5 @@
-## 📡 Who is the Relay?  
+# Relay
+## Who is the Relay?
 **Code: O-P-I-S-M**
 
 The Relay is the trusted messenger — steady, responsive, and naturally positioned at the intersections of movement and information. They don’t invent the message — they *carry it clearly, quickly, and reliably to where it’s needed most*.

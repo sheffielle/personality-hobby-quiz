@@ -1,4 +1,5 @@
-## ✴️ Who is the Sparkbearer?  
+# Sparkbearer
+## Who is the Sparkbearer?
 **Code: O-O-A-S-M**
 
 The Sparkbearer is the steady flame — warm, bright, and purposefully lit to *carry hope, energy, and creativity across long distances*. They don’t flash — they *glow with resilience that others can gather around*.

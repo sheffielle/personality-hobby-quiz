@@ -1,6 +1,5 @@
-# VIIOM_summary.md (Pulsekeeper)
-
-**Who is the Pulsekeeper?**  
+# Pulsekeeper
+## Who is the Pulsekeeper?
 **Code: V-I-I-O-M**
 
 The Pulsekeeper is the heartbeat of a group — attuned, steady, and deeply connected to the rhythms of those around them. They don’t just listen to the pulse of the world; they *feel it* and guide it, ensuring that everyone moves in harmony. Their care lies in keeping the tempo just right, balancing energy with rest, forward movement with reflection.

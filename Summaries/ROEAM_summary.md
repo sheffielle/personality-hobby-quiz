@@ -1,6 +1,5 @@
-# ROEAM_summary.md (Glowform)
-
-**Who is the Glowform?**  
+# Glowform
+## Who is the Glowform?
 **Code: R-O-E-A-M**
 
 The Glowform is structural serenity — graceful, process-loving, and quietly radiant. They don’t rush, push, or impose — they *shape experience through gentle precision*. Their strength lies in their ability to bring emotional warmth to organized environments. To make systems feel safe. To turn order into *care*.

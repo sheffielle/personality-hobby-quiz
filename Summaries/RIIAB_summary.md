@@ -1,6 +1,5 @@
-# RIIAB_summary.md (Heartforge)
-
-**Who is the Heartforge?**  
+# Heartforge
+## Who is the Heartforge?
 **Code: R-I-I-A-B**
 
 The Heartforge is refined resilience — strong, compassionate, and soulfully grounded. They don’t avoid pain — they *transform it*. Their strength lies in how they take what’s been hard and shape it into care, kindness, and quiet power. They are the people who have been through the fire — and came out *warmer*, not harder.

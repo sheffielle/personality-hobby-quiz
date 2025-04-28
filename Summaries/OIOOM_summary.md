@@ -1,4 +1,5 @@
-## 🌐 Who is the Aligner?  
+# Aligner
+## Who is the Aligner?
 **Code: O-I-I-O-M**
 
 The Aligner is the harmonizer — diplomatic, empathetic, and deeply invested in *creating cohesion and unity among people, ideas, and systems*. They don’t just mediate — they *actively work to align diverse perspectives, fostering collaboration and understanding*.

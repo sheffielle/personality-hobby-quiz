@@ -1,4 +1,5 @@
-## 🪷 Who is the Counselor?  
+# Counselor
+## Who is the Counselor?
 **Code: O-P-E-O-M**
 
 The Counselor is the emotional anchor — warm, intuitive, and profoundly present when people are hurting, uncertain, or in need of perspective. They don’t rush solutions — they *offer space, validation, and quiet strength*.

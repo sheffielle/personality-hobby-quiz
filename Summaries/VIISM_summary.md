@@ -1,6 +1,5 @@
-# VIISM_summary.md (Widemind)
-
-**Who is the Widemind?**  
+# Widemind
+## Who is the Widemind?
 **Code: V-I-I-S-M**
 
 The Widemind is expansive clarity — inclusive, thoughtful, and unafraid to hold space for diverse perspectives. They don’t rush to judge or categorize; they allow different views to coexist and weave together into a broader understanding. Their strength lies in their ability to see the big picture, to embrace complexity, and to foster understanding across differences.

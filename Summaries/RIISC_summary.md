@@ -1,6 +1,5 @@
-# RIISC_summary.md (Shadowkin)
-
-**Who is the Shadowkin?**  
+# Shadowkin
+## Who is the Shadowkin?
 **Code: R-I-I-S-C**
 
 The Shadowkin is quiet knowing — perceptive, contained, and profoundly intuitive. They don’t need your story to be told aloud — they *feel its shape anyway*. Their strength lies in their ability to sense what others suppress, to understand what’s hidden without asking. They offer empathy without exposure — *companionship without spotlight*.

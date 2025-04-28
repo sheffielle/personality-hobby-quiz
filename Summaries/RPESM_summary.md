@@ -1,6 +1,5 @@
-# RPESM_summary.md (Farsight)
-
-**Who is the Farsight?**  
+# Farsight
+## Who is the Farsight?
 **Code: R-P-E-S-M**
 
 The Farsight is quiet foresight — reflective, emotionally grounded, and vision-driven. They don’t just understand the present — they gently hold the future in their mind’s eye. Their strength lies in their ability to see what others miss: emerging patterns, hidden potential, and long arcs of change. They don’t force transformation — they *witness what is becoming*.

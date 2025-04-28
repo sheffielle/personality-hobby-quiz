@@ -1,6 +1,5 @@
-## 📄 VPEAB_summary.md (Composer)
-
-**Who is the Composer?**  
+# Composer
+## Who is the Composer?
 **Code: V-P-E-A-B**
 
 The Composer is the integrative artist — expressive, agile, and deeply attuned to harmony in all its forms. They don’t simply create for the sake of art — they *curate experiences*, blending beauty, insight, and structure into something meaningful. Life to a Composer isn’t a series of isolated events — it’s a *score to be orchestrated*.

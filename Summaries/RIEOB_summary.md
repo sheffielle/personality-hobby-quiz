@@ -1,6 +1,5 @@
-# RIEOB_summary.md (Toneweaver)
-
-**Who is the Toneweaver?**  
+# Toneweaver
+## Who is the Toneweaver?
 **Code: R-I-E-O-B**
 
 The Toneweaver is emotional harmony — attuned, expressive, and beautifully composed. They don’t just understand feelings — they *arrange them*. Their strength lies in how they blend emotional intelligence with insight, like a composer weaving together melody and meaning. They make emotion feel *artful, not overwhelming*.

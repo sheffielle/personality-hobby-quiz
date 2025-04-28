@@ -1,6 +1,5 @@
-# VOEAB_summary.md (Shelter)
-
-**Who is the Shelter?**  
+# Shelter
+## Who is the Shelter?
 **Code: V-O-E-A-B**
 
 The Shelter is soft resilience — a quiet soul who catches what others drop. When the world turns harsh, they become a resting place. Shelters don’t seek the spotlight; they seek connection. In the face of pain, they don’t panic — they listen. And in listening, they restore something essential: the belief that gentleness still exists.

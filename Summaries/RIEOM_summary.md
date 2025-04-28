@@ -1,6 +1,5 @@
-# RIEOM_summary.md (Hollowecho)
-
-**Who is the Hollowecho?**  
+# Hollowecho
+## Who is the Hollowecho?
 **Code: R-I-E-O-M**
 
 The Hollowecho is emotional resonance — open, sensitive, and deeply spacious. They don’t fill silence — they *listen into it*. Their strength lies in attuning to what others don’t say, in creating space where the unspeakable can breathe. They hold emotion like a canyon holds echo — not to trap it, but to *amplify its truth*.

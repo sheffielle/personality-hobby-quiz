@@ -1,4 +1,5 @@
-## 🌍 Who is the Unifier?  
+# Unifier
+## Who is the Unifier?
 **Code: O-O-I-A-M**
 
 The Unifier is the integrator of diverse energies — empathic, insightful, and naturally gifted at *bringing people and ideas together to create wholeness from separation*. They don’t just see what’s wrong — they *see the potential to weave everything together into one harmonious whole*.

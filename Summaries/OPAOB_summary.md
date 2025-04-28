@@ -1,4 +1,5 @@
-## 🧭 Who is the Commander?  
+# Commander
+## Who is the Commander?
 **Code: O-P-A-O-B**
 
 The Commander is the decisive strategist — bold, pragmatic, and relentlessly focused on making things *happen*. They don’t wait for permission — they *lead from the front*, with vision sharpened by logic and action.

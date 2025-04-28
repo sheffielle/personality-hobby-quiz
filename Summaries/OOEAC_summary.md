@@ -1,4 +1,5 @@
-## 🐾 Who is the Companion?  
+# Companion
+## Who is the Companion?
 **Code: O-O-E-A-C**
 
 The Companion is the devoted ally — loyal, supportive, and deeply committed to *being there for others through thick and thin*. They don’t seek to lead — they *stand by those they care about, offering unwavering presence and emotional security*.

@@ -1,4 +1,5 @@
-## 👓 Who is the Lenskeeper?  
+# Lenskeeper
+## Who is the Lenskeeper?
 **Code: O-I-A-A-C**
 
 The Lenskeeper is the perceptive observer — analytical, detail-oriented, and deeply focused on *understanding the world through a clear and discerning lens*. They don’t just see — they *observe with clarity and precision*, uncovering details that others often miss.

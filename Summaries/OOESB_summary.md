@@ -1,4 +1,5 @@
-## 🌟 Who is the Encourager?  
+# Encourager
+## Who is the Encourager?
 **Code: O-O-E-S-B**
 
 The Encourager is the uplifting supporter — enthusiastic, motivating, and naturally gifted at *helping others believe in themselves and their potential*. They don’t just cheer from the sidelines — they *inspire action, belief, and growth*.

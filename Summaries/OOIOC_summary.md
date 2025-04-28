@@ -1,4 +1,5 @@
-## 🧭 Who is the Guide?  
+# Guide
+## Who is the Guide?
 **Code: O-O-I-O-C**
 
 The Guide is the grounded wisdom-holder — steady, experienced, and devoted to *helping others navigate their own paths with clarity and care*. They don’t control the journey — they *light the way forward through presence, insight, and patience*.

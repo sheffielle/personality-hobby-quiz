@@ -1,6 +1,5 @@
-# VIASB_summary.md (Kindroot)
-
-**Who is the Kindroot?**  
+# Kindroot
+## Who is the Kindroot?
 **Code: V-I-A-S-B**
 
 The Kindroot is anchored compassion — steady, gentle, and quietly transformative. They don’t posture, persuade, or perform. Their care is effortless, embodied in how they move through the world. Being around them feels like exhaling — like remembering that safety isn’t earned, it’s offered.

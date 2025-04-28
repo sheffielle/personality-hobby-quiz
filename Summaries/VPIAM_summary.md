@@ -1,6 +1,5 @@
-## 📄 VPIAM_summary.md (Forecaster)
-
-**Who is the Forecaster?**  
+# Forecaster
+## Who is the Forecaster?
 **Code: V-P-I-A-M**
 
 The Forecaster is the strategic seer — thoughtful, composed, and ever-looking ahead. They don't just wonder what’s next — they *analyze it*, *prepare for it*, and *quietly guide others through it*. Where others see unknowns, the Forecaster sees variables. Where others react, they *anticipate*.

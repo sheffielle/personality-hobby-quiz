@@ -1,6 +1,5 @@
-# RIASM_summary.md (Opentide)
-
-**Who is the Opentide?**  
+# Opentide
+## Who is the Opentide?
 **Code: R-I-A-S-M**
 
 The Opentide is graceful fluidity — emotionally attuned, softly responsive, and ever-adaptive. They don’t push through life — they *move with it*. Their strength lies in their ability to stay open without losing themselves, to shift with emotion while remaining whole. They embody the truth that softness is not fragility — *it’s flow*.

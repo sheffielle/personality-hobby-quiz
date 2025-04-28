@@ -1,6 +1,5 @@
-## 📄 VOIOC_summary.md (Anchor)
-
-**Who is the Anchor?**  
+# Anchor
+## Who is the Anchor?
 **Code: V-O-I-O-C**
 
 The Anchor is the silent strength — introspective, grounded, and unwavering in their presence. They don’t lead with flash or noise. They lead by *showing up, staying present, and holding steady*. When storms arise — personal, relational, or systemic — Anchors don’t panic. They *plant deeper*.

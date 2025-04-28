@@ -1,6 +1,5 @@
-## 📄 VOIAM_summary.md (Sustainer)
-
-**Who is the Sustainer?**  
+# Sustainer
+## Who is the Sustainer?
 **Code: V-O-I-A-M**
 
 The Sustainer is the quiet keeper — introspective, responsible, and deeply motivated by continuity. They aren’t interested in drama or reinvention for its own sake. Their purpose is subtler: *to maintain what matters*. Whether it’s a routine, a relationship, or a long-term vision, Sustainers show up *again and again*, not for recognition — but because *they care*.

@@ -1,6 +1,5 @@
-# VIAAM_summary.md (Quietpath)
-
-**Who is the Quietpath?**  
+# Quietpath
+## Who is the Quietpath?
 **Code: V-I-A-A-M**
 
 The Quietpath is calm intention in motion — gentle, grounded, and unwavering in their subtlety. They don’t demand space, but they *shape* it. Their presence brings a sense of peace, not through silence alone, but through the *deliberateness* of their steps. Every action they take seems to say: “I’ve thought this through.”

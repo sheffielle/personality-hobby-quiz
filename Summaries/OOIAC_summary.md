@@ -1,4 +1,5 @@
-## 📜 Who is the Messenger?  
+# Messenger
+## Who is the Messenger?
 **Code: O-O-I-A-C**
 
 The Messenger is the bearer of truth — direct, clear, and unwavering in *delivering essential information and guiding others toward clarity*. They don’t shy away from difficult conversations — they *speak up for what matters, even when it’s uncomfortable*.

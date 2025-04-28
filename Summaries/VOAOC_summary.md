@@ -1,6 +1,5 @@
-## 📄 VOAOC_summary.md (Clarifier)
-
-**Who is the Clarifier?**  
+# Clarifier
+## Who is the Clarifier?
 **Code: V-O-A-O-C**
 
 The Clarifier is the voice of precision — outgoing, thoughtful, and deeply devoted to making things *make sense*. They’re not trying to win arguments or complicate things — they’re trying to *illuminate truth*. Whether in a crowded room or a quiet conversation, the Clarifier brings light to foggy thinking and calm to chaotic plans.

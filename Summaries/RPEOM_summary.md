@@ -1,6 +1,5 @@
-# RPEOM_summary.md (Firemender)
-
-**Who is the Firemender?**  
+# Firemender
+## Who is the Firemender?
 **Code: R-P-E-O-M**
 
 The Firemender is heart-led healing — intense, passionate, and emotionally courageous. They don’t shy away from conflict or rupture — they walk straight into it with the intention of healing. Their strength lies in their ability to bring people back from the emotional edge, mending what was broken not with surface fixes, but with raw, heartfelt repair.

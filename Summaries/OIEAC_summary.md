@@ -1,4 +1,5 @@
-## 🌞 Who is the Daylighter?  
+# Daylighter
+## Who is the Daylighter?
 **Code: O-I-E-A-C**
 
 The Daylighter is the radiant leader — optimistic, inspiring, and deeply committed to *illuminating the path for others, guiding them toward positivity, growth, and success*. They don’t just lead — they *bring light and clarity to those around them, encouraging them to reach their full potential*.

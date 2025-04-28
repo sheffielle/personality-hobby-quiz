@@ -1,4 +1,5 @@
-## 🪵 Who is the Firetender?  
+# Firetender
+## Who is the Firetender?
 **Code: O-O-A-S-C**
 
 The Firetender is the quiet keeper of warmth — loyal, attentive, and deeply devoted to *maintaining the emotional and creative flame through steady, behind-the-scenes care*. They don’t draw focus — they *make sure the fire never goes out*.

@@ -1,4 +1,5 @@
-## 🫂 Who is the Welcomer?  
+# Welcomer
+## Who is the Welcomer?
 **Code: O-P-E-S-M**
 
 The Welcomer is the open door — warm-hearted, inviting, and deeply driven to *create spaces where others feel safe, seen, and genuinely included*. They don’t just say “hello” — they *say “you belong here.”*

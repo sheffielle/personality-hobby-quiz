@@ -1,4 +1,5 @@
-## 🌐 Who is the Liaison?  
+# Liaison
+## Who is the Liaison?
 **Code: O-P-I-A-C**
 
 The Liaison is the cultural translator — intuitive, thoughtful, and gifted at *navigating between groups, systems, or perspectives to foster mutual understanding*. They don’t just connect people — they *build bridges between worlds*.

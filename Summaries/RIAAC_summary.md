@@ -1,6 +1,5 @@
-# RIAAC_summary.md (Paledawn)
-
-**Who is the Paledawn?**  
+# Paledawn
+## Who is the Paledawn?
 **Code: R-I-A-A-C**
 
 The Paledawn is quiet renewal — soft, steady, and unexpectedly strong. They don’t burst into new chapters — they *emerge into them*. Their strength lies in their ability to begin again without spectacle, to carry profound transformation with a whisper instead of a shout. They are change without chaos. They are *newness with roots*.

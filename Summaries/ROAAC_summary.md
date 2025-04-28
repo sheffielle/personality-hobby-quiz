@@ -1,6 +1,5 @@
-# ROAAC_summary.md (Candlewatch)
-
-**Who is the Candlewatch?**  
+# Candlewatch
+## Who is the Candlewatch?
 **Code: R-O-A-A-C**
 
 The Candlewatch is sacred presence — steady, warm, and unwavering. They don’t fix or rescue; they *stay*. Their strength lies in their ability to hold space for others through the deepest dark — to be the quiet witness, the calm anchor, the small, persistent light that does not falter. They offer safety not through answers, but through *presence that doesn’t leave*.

@@ -1,6 +1,5 @@
-# RIAOM_summary.md (Driftmark)
-
-**Who is the Driftmark?**  
+# Driftmark
+## Who is the Driftmark?
 **Code: R-I-A-O-M**
 
 The Driftmark is care left in soft footprints — quiet, emotional, and gently attuned. They don’t declare their presence — they *leave it behind in moments you later realize mattered*. Their strength lies in subtlety: the way they tend without claiming, offer without asking, and love without needing recognition.

@@ -1,6 +1,5 @@
-## 📄 VPASC_summary.md (Warmguard)
-
-**Who is the Warmguard?**  
+# Warmguard
+## Who is the Warmguard?
 **Code: V-P-A-S-C**
 
 The Warmguard is the silent shield — protective, empathetic, and fiercely loyal to the people they hold dear. They don’t just offer support — they *stand between others and harm*, often without needing to be asked. Their warmth is their strength. Their steadiness is their gift.

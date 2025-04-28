@@ -1,6 +1,5 @@
-# VIESM_summary.md (Kindmaker)
-
-**Who is the Kindmaker?**  
+# Kindmaker
+## Who is the Kindmaker?
 **Code: V-I-E-S-M**
 
 The Kindmaker is compassionate creation — warm, nurturing, and always focused on shaping environments where others feel accepted and inspired. They don’t just create for the sake of creation; they create with a purpose, molding spaces and communities where everyone can thrive. Their strength lies in their ability to foster acceptance, inspire growth, and make others feel valued and seen.

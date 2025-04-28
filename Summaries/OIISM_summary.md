@@ -1,4 +1,5 @@
-## 🎶 Who is the Conductor?  
+# Conductor
+## Who is the Conductor?
 **Code: O-I-I-S-M**
 
 The Conductor is the strategic orchestrator — composed, insightful, and deeply invested in *bringing people, resources, and ideas together in perfect harmony to achieve a unified goal*. They don’t just manage — they *lead the flow, ensuring that every element functions in synchronization to create the best outcome*.

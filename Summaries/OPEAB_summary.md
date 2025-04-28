@@ -1,4 +1,5 @@
-## 🎈 Who is the Encourager?  
+# Encourager
+## Who is the Encourager?
 **Code: O-P-E-A-B**
 
 The Encourager is the uplifting presence — vibrant, affirming, and deeply attuned to *bringing out the best in others through belief, energy, and support*. They don’t hype for show — they *reflect potential until others see it too*.

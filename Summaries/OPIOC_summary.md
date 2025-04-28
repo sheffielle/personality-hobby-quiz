@@ -1,4 +1,5 @@
-## 🪢 Who is the Mediator?  
+# Mediator
+## Who is the Mediator?
 **Code: O-P-I-O-C**
 
 The Mediator is the bridge-builder — calm, fair-minded, and deeply skilled in *bringing people together across tension, difference, or misunderstanding*. They don’t take sides — they *hold space for resolution*.

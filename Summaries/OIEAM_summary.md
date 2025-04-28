@@ -1,4 +1,5 @@
-## 💫 Who is the Sympath?  
+# Sympath
+## Who is the Sympath?
 **Code: O-I-E-A-M**
 
 The Sympath is the compassionate nurturer — empathetic, intuitive, and deeply invested in *creating deep emotional connections and understanding the inner workings of others’ hearts and minds*. They don’t just listen — they *feel*, drawing on their sensitivity to create bonds that foster emotional growth and healing.

@@ -1,6 +1,5 @@
-# ROEOB_summary.md (Quietstead)
-
-**Who is the Quietstead?**  
+# Quietstead
+## Who is the Quietstead?
 **Code: R-O-E-O-B**
 
 The Quietstead is steady wisdom — calm, consistent, and quietly anchoring. They don’t lead through volume — they *lead by example*, through who they are. Their strength lies in their unshakable presence: the kind that doesn’t demand attention, but earns trust through being deeply, unwaveringly reliable.

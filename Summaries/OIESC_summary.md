@@ -1,4 +1,5 @@
-## 🤝 Who is the Reconciler?  
+# Reconciler
+## Who is the Reconciler?
 **Code: O-I-E-S-C**
 
 The Reconciler is the compassionate mediator — calm, wise, and deeply committed to *restoring harmony, resolving conflicts, and fostering mutual understanding between others*. They don’t just mediate — they *work tirelessly to find common ground and create win-win solutions that benefit everyone involved*.

@@ -1,6 +1,5 @@
-# VIIOB_summary.md (Underbeam)
-
-**Who is the Underbeam?**  
+# Underbeam
+## Who is the Underbeam?
 **Code: V-I-I-O-B**
 
 The Underbeam is quiet strength — unassuming, steady, and tirelessly supportive. They don’t seek acknowledgment or praise. Instead, they quietly uphold what is worthwhile, lifting others with their presence and support. Their power lies not in being seen, but in enabling the light to shine brighter for those around them.

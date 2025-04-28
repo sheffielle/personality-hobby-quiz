@@ -1,4 +1,5 @@
-## ✨ Who is the Charmer?  
+# Charmer
+## Who is the Charmer?
 **Code: O-P-E-S-B**
 
 The Charmer is the magnetic spark — expressive, witty, and naturally gifted in *making others feel seen, delighted, and welcomed wherever they go*. They don’t fake warmth — they *radiate connection*.

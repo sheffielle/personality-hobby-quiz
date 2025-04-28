@@ -1,6 +1,5 @@
-# ROASB_summary.md (Framefinder)
-
-**Who is the Framefinder?**  
+# Framefinder
+## Who is the Framefinder?
 **Code: R-O-A-S-B**
 
 The Framefinder is quiet precision — perceptive, thoughtful, and subtly transformative. They don’t force perspective; they *reveal* it, gently helping others reframe, reorient, and rediscover clarity. Their strength lies in their ability to notice the unseen edges — the shape beneath the story, the path behind the fog. They don’t need to build the whole structure — they show you where to place the beams.

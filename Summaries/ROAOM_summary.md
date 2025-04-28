@@ -1,6 +1,5 @@
-# ROAOM_summary.md (Veilkeeper)
-
-**Who is the Veilkeeper?**  
+# Veilkeeper
+## Who is the Veilkeeper?
 **Code: R-O-A-O-M**
 
 The Veilkeeper is fierce tenderness — protective, emotionally deep, and quietly formidable. They don’t expose everything at once, not out of secrecy, but out of reverence. Their strength lies in their ability to guard vulnerability — their own and others’ — with unshakeable loyalty. They are the ones who keep what’s sacred from being trampled, the ones who know that emotional truth deserves sanctuary.

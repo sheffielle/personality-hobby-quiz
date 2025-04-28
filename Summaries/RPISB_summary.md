@@ -1,6 +1,5 @@
-# RPISB_summary.md (Windreader)
-
-**Who is the Windreader?**  
+# Windreader
+## Who is the Windreader?
 **Code: R-P-I-S-B**
 
 The Windreader is perceptive and adaptable — always in tune with the subtle shifts in mood, energy, and momentum. They don’t just observe; they interpret the hidden currents of emotions and behaviors, reading people like weather patterns. Their strength lies in their ability to anticipate changes and adjust accordingly, offering guidance based on their keen awareness of the emotional climate around them.

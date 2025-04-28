@@ -1,6 +1,5 @@
-## 📄 VPIOM_summary.md (Chronicler)
-
-**Who is the Chronicler?**  
+# Chronicler
+## Who is the Chronicler?
 **Code: V-P-I-O-M**
 
 The Chronicler is the reflective documentarian — introspective, deliberate, and devoted to capturing the truth of what *was*, what *is*, and what might *one day be*. They don’t just notice life — they *record it*, frame it, and preserve it with reverence and precision. Their gift is memory, not just of facts, but of feeling, significance, and story.

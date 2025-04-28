@@ -1,6 +1,5 @@
-# RIESC_summary.md (Lastlight)
-
-**Who is the Lastlight?**  
+# Lastlight
+## Who is the Lastlight?
 **Code: R-I-E-S-C**
 
 The Lastlight is presence at the edge — steadfast, compassionate, and quietly brave. They don’t fight to hold on — they *choose to remain*. Their strength lies in staying through endings, in being the final light when everything else has dimmed. They are the soul’s lantern as the night closes in — *not to change the dark, but to walk with you through it*.

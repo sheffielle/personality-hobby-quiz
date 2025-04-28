@@ -1,6 +1,5 @@
-## 📄 VPESC_summary.md (Civician)
-
-**Who is the Civician?**  
+# Civician
+## Who is the Civician?
 **Code: V-P-E-S-C**
 
 The Civician is the quietly devoted citizen — expressive, orderly, and deeply committed to shared responsibility. They don’t chase the spotlight or crave upheaval — they believe in *cohesion, contribution, and civic rhythm*. To the Civician, purpose doesn’t come from spectacle — it comes from *showing up, consistently, for the good of the whole*.

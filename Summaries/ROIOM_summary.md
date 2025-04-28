@@ -1,6 +1,5 @@
-# ROIOM_summary.md (Stillmark)
-
-**Who is the Stillmark?**  
+# Stillmark
+## Who is the Stillmark?
 **Code: R-O-I-O-M**
 
 The Stillmark is impact without spectacle — quiet, watchful, and deeply resonant. They don’t need the spotlight to make a difference. Their strength lies in their ability to shape environments through subtle presence, to leave marks not in bold strokes, but in quiet shifts that are *felt long after they've gone*. They aren’t performers — they’re presences.

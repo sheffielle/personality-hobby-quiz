@@ -1,4 +1,5 @@
-## 🔍 Who is the Patternseer?  
+# Patternseer
+## Who is the Patternseer?
 **Code: O-I-A-O-C**
 
 The Patternseer is the intuitive observer — insightful, perceptive, and deeply attuned to *seeing patterns and connections that others might miss*. They don’t just analyze — they *recognize the unseen threads that link ideas, people, and events*.

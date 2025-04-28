@@ -1,6 +1,5 @@
-## 📄 VPAAB_summary.md (Archivist)
-
-**Who is the Archivist?**  
+# Archivist
+## Who is the Archivist?
 **Code: V-P-A-A-B**
 
 The Archivist is the mindful preserver — thoughtful, measured, and dedicated to safeguarding what matters most. They don’t just store facts or memories — they *honor meaning*, curating life’s details with reverence and care. Whether it’s a cherished tradition, an old family recipe, or the subtle patterns that shape a team’s rhythm, the Archivist ensures that *nothing valuable is forgotten*.

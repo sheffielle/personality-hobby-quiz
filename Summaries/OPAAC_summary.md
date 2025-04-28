@@ -1,4 +1,5 @@
-## 🕵️ Who is the Inspector?  
+# Inspector
+## Who is the Inspector?
 **Code: O-P-A-A-C**
 
 The Inspector is the principled examiner — observant, detail-oriented, and quietly dedicated to *ensuring things are done properly, ethically, and without shortcuts*. They don’t overlook — they *uphold integrity in the fine print*.

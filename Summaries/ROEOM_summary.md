@@ -1,6 +1,5 @@
-# ROEOM_summary.md (Cloudwatch)
-
-**Who is the Cloudwatch?**  
+# Cloudwatch
+## Who is the Cloudwatch?
 **Code: R-O-E-O-M**
 
 The Cloudwatch is steady dreamscape — grounded yet visionary, patient yet far-seeing. They don’t fantasize idly — they *dream with direction*. Their strength lies in their ability to hold long-term visions that others miss, keeping faith in the far-off while staying rooted in the present. They’re not disconnected — they’re oriented toward *what could be*.

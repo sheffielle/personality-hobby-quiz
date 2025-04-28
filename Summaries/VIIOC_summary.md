@@ -1,6 +1,5 @@
-# VIIOC_summary.md (Glowwright)
-
-**Who is the Glowwright?**  
+# Glowwright
+## Who is the Glowwright?
 **Code: V-I-I-O-C**
 
 The Glowwright is quiet illumination — uplifting, supportive, and naturally optimistic. They don’t just bring light to dark places; they make the dark *feel* lighter. Their presence is hopeful, like a soft, warm glow that reassures others without overwhelming them. They shine not to be seen, but to make the world around them a little brighter.

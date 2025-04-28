@@ -1,4 +1,5 @@
-## 🧘‍♂️ Who is the Listener?  
+# Listener
+## Who is the Listener?
 **Code: O-O-E-A-M**
 
 The Listener is the silent strength — perceptive, patient, and deeply attuned to *hearing both the spoken and unspoken needs of those around them*. They don’t need to be the loudest in the room — they *listen deeply and respond thoughtfully*.

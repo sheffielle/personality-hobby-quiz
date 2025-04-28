@@ -1,4 +1,5 @@
-## 🔗 Who is the Connector?  
+# Connector
+## Who is the Connector?
 **Code: O-P-I-A-B**
 
 The Connector is the relational glue — personable, insightful, and deeply motivated by *linking people, ideas, and resources in ways that spark collaboration and mutual growth*. They don’t hoard contacts — they *bridge them*.

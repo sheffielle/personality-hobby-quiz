@@ -1,6 +1,5 @@
-## 📄 VPEAC_summary.md (Timekeeper)
-
-**Who is the Timekeeper?**  
+# Timekeeper
+## Who is the Timekeeper?
 **Code: V-P-E-A-C**
 
 The Timekeeper is the steward of pace — expressive, conscientious, and masterfully aware of *when things should happen*. They live by internal rhythms, reading time not just by clocks, but by energy, context, and unfolding necessity. They don’t rush — they *align*. They don’t control — they *calibrate*.

@@ -1,6 +1,5 @@
-# VIAOB_summary.md (Seeker)
-
-**Who is the Seeker?**  
+# Seeker
+## Who is the Seeker?
 **Code: V-I-A-O-B**
 
 The Seeker is the eternal student — introspective, curious, and ever-reaching. They don’t need certainty to feel secure; they thrive in the unknown. For the Seeker, learning isn’t just a means to an end — it’s a form of aliveness. They chase ideas, not to conquer them, but to understand themselves through them.

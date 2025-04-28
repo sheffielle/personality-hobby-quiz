@@ -1,6 +1,5 @@
-## 📄 VOAAM_summary.md (Quietist)
-
-**Who is the Quietist?**  
+# Quietist
+## Who is the Quietist?
 **Code: V-O-A-A-M**
 
 The Quietist is the still observer — outgoing in spirit, but inward by nature. They are social, yes, but not loud. They are energized, yes, but not frenetic. The Quietist moves through life like a thoughtful stream — curious, adaptive, and subtly shaping the world around them through calm influence rather than overt control.

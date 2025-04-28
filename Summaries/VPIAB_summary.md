@@ -1,6 +1,5 @@
-## 📄 VPIAB_summary.md (Overseer)
-
-**Who is the Overseer?**  
+# Overseer
+## Who is the Overseer?
 **Code: V-P-I-A-B**
 
 The Overseer is the steadfast strategist — focused, watchful, and quietly powerful. They see the bigger picture, and they *stay with it*. They aren’t here to micromanage — they’re here to *maintain integrity*, guiding processes, people, and progress with unwavering focus and deliberate care.

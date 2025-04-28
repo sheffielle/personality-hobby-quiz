@@ -1,4 +1,5 @@
-## 🕊️ Who is the Peacemaker?  
+# Peacemaker
+## Who is the Peacemaker?
 **Code: O-O-I-O-M**
 
 The Peacemaker is the steady mediator of balance — calm, empathetic, and deeply devoted to restoring harmony amid conflict. They don’t avoid turbulence, but they skillfully *dissolve tension and encourage unity*. They work quietly behind the scenes to build bridges where discord once reigned.

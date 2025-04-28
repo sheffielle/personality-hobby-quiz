@@ -1,4 +1,5 @@
-## 🎩 Who is the Ringleader?  
+# Ringleader
+## Who is the Ringleader?
 **Code: O-I-I-S-B**
 
 The Ringleader is the charismatic leader — dynamic, persuasive, and deeply committed to *leading others towards a common goal with passion, energy, and vision*. They don’t just lead — they *inspire and mobilize others to take action*.

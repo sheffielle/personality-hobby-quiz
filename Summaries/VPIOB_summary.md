@@ -1,6 +1,5 @@
-## 📄 VPIOB_summary.md (Reformer)
-
-**Who is the Reformer?**  
+# Reformer
+## Who is the Reformer?
 **Code: V-P-I-O-B**
 
 The Reformer is the tireless improver — principled, introspective, and fiercely devoted to the pursuit of better. They don’t just critique the world — they *reshape it*, driven by an internal compass that points persistently toward integrity, justice, and meaningful change. They don’t settle, not because they’re perfectionists, but because they *believe in what could be*.

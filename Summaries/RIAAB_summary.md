@@ -1,6 +1,5 @@
-# RIAAB_summary.md (Soulframe)
-
-**Who is the Soulframe?**  
+# Soulframe
+## Who is the Soulframe?
 **Code: R-I-A-A-B**
 
 The Soulframe is structured sensitivity — stable, sincere, and quietly resilient. They don’t suppress emotion — they *shape it*. Their strength lies in their ability to give form to feeling, to translate emotion into steady patterns of care. They offer not just empathy, but *reliability within it*. They feel deeply — but they *stay*.

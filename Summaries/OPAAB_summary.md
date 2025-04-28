@@ -1,4 +1,5 @@
-## 🧭 Who is the Expediter?
+# Expediter
+## Who is the Expediter?
 
 When the map ends, the Expediter begins. This is the personality that thrives in motion, adapts in real time, and carries both a compass and a toolkit. The Expediter is not reckless — they’re *ready*. Agile in action and precise in purpose, they’re the ones you’d want beside you in the fog of uncertainty, charting the course as they walk it.
 

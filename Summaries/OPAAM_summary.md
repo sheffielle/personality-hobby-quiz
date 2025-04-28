@@ -1,4 +1,5 @@
-## 🧩 Who is the Coordinator?  
+# Coordinator
+## Who is the Coordinator?
 **Code: O-P-A-A-M**
 
 The Coordinator is the movement harmonizer — attentive, organized, and gifted at *getting people, processes, and plans to work together smoothly*. They don’t need to control — they *facilitate alignment and forward motion*.

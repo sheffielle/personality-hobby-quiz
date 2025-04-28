@@ -1,6 +1,5 @@
-# ROISM_summary.md (Mindstream)
-
-**Who is the Mindstream?**  
+# Mindstream
+## Who is the Mindstream?
 **Code: R-O-I-S-M**
 
 The Mindstream is mental flow — fluid, intuitive, and endlessly generative. They don’t think in straight lines — they *ripple*. Their strength lies in their ability to move with ideas, shifting through possibilities with insight and grace. They’re not just smart — they’re *alive* with thought. Where others see confusion, they see *potential in motion*.

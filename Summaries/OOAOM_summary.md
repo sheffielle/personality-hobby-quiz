@@ -1,4 +1,5 @@
-## ⚖️ Who is the Balancekeeper?  
+# Balancekeeper
+## Who is the Balancekeeper?
 **Code: O-O-A-O-M**
 
 The Balancekeeper is the quiet calibrator — composed, fair-minded, and deeply drawn to *maintaining equilibrium in the face of pressure, chaos, or extremes*. They don’t stir the pot — they *stabilize it with grace and clarity*.

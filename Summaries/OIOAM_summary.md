@@ -1,4 +1,5 @@
-## 🧠 Who is the Senseweaver?  
+# Senseweaver
+## Who is the Senseweaver?
 **Code: O-I-A-A-M**
 
 The Senseweaver is the intuitive creator — insightful, perceptive, and skilled at *seeing connections between ideas, people, and events that others might overlook*. They don’t just analyze — they *weave a complex tapestry of understanding from multiple perspectives*.

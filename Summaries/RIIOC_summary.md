@@ -1,6 +1,5 @@
-# RIIOC_summary.md (Threadroot)
-
-**Who is the Threadroot?**  
+# Threadroot
+## Who is the Threadroot?
 **Code: R-I-I-O-C**
 
 The Threadroot is community quietly woven — grounded, observant, and steadfastly connective. They don’t rally crowds or make speeches — they *bind people together in ways no one forgets*. Their strength lies in consistency and care, in building emotional infrastructure without ever needing recognition. They are *the roots beneath the garden*.

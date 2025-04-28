@@ -1,4 +1,5 @@
-## 🧠 Who is the Advisor?  
+# Advisor
+## Who is the Advisor?
 **Code: O-P-I-O-M**
 
 The Advisor is the trusted guide — perceptive, composed, and deeply motivated by *helping others navigate complex decisions with clarity*. They don’t dictate — they *illuminate options* and *empower choice*.

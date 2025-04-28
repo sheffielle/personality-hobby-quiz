@@ -1,6 +1,5 @@
-# RPAAC_summary.md (Sunstead)
-
-**Who is the Sunstead?**  
+# Sunstead
+## Who is the Sunstead?
 **Code: R-P-A-A-C**
 
 The Sunstead is quiet joy — bright, grounded, and deeply dependable. They don’t seek attention, but their presence is like the steady warmth of the sun, offering a gentle, reliable comfort to everyone around them. Their strength lies in their ability to bring light into the lives of others without overshadowing them, creating a sense of peace and warmth that is both grounding and uplifting.

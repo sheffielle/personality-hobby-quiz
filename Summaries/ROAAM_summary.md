@@ -1,6 +1,5 @@
-# ROAAM_summary.md (Edgewalker)
-
-**Who is the Edgewalker?**  
+# Edgewalker
+## Who is the Edgewalker?
 **Code: R-O-A-A-M**
 
 The Edgewalker is liminal courage — adaptive, emotionally perceptive, and brave in the unknown. They don’t cling to certainty; they *walk its edges*. Their strength lies in their ability to navigate transitions, to stand between what was and what’s coming next, and to hold complexity without trying to collapse it. They live where boundaries blur — between roles, identities, or paradigms.

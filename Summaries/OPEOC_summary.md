@@ -1,4 +1,5 @@
-## 🫶 Who is the Caregiver?  
+# Caregiver
+## Who is the Caregiver?
 **Code: O-P-E-O-C**
 
 The Caregiver is the heart-forward nurturer — generous, attentive, and quietly devoted to *meeting the emotional and physical needs of those around them*. They don’t wait to be asked — they *sense what’s needed and offer it with grace*.

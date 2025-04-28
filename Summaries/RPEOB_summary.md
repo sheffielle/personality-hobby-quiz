@@ -1,6 +1,5 @@
-# RPEOB_summary.md (Grovekeeper)
-
-**Who is the Grovekeeper?**  
+# Grovekeeper
+## Who is the Grovekeeper?
 **Code: R-P-E-O-B**
 
 The Grovekeeper is quiet nurture — steady, grounding, and emotionally attentive. They don’t just care for individuals — they tend to emotional ecosystems, making sure everyone around them has the space and nutrients to grow. Their strength lies in their patience, their ability to sustain support over time, and their intuitive sense for emotional balance in groups.

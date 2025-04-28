@@ -1,6 +1,5 @@
-# VOEOC_summary.md (Groundbearer)
-
-**Who is the Groundbearer?**  
+# Groundbearer
+## Who is the Groundbearer?
 **Code: V-O-E-O-C**
 
 The Groundbearer is quiet strength — anchored, attentive, and unwavering. While others may speak first or falter loudly, Groundbearers endure. They absorb what others can’t hold, without expecting recognition or reward. Their steadiness isn’t passive — it’s purposeful, forged through empathy and fortified through silence.

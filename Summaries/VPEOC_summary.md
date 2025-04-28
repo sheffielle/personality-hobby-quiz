@@ -1,6 +1,5 @@
-## 📄 VPEOC_summary.md (Coordinator)
-
-**Who is the Coordinator?**  
+# Coordinator
+## Who is the Coordinator?
 **Code: V-P-E-O-C**
 
 The Coordinator is the calm conductor — energetic, organized, and seamlessly collaborative. They don’t need the spotlight — they *run the whole stage from behind the curtain*. Coordinators are driven not by ego, but by flow — they want things to work, people to sync, and plans to unfold with purposeful precision.

@@ -1,4 +1,5 @@
-## 🧬 Who is the Interpreter?  
+# Interpreter
+## Who is the Interpreter?
 **Code: O-P-I-S-C**
 
 The Interpreter is the systems decoder — analytical, perceptive, and uniquely wired to *translate complexity into clarity*. They don’t just gather data — they *synthesize it into understanding*.

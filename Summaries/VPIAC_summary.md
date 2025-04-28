@@ -1,6 +1,5 @@
-## 📄 VPIAC_summary.md (Templar)
-
-**Who is the Templar?**  
+# Templar
+## Who is the Templar?
 **Code: V-P-I-A-C**
 
 The Templar is the principled guardian — introspective, unwavering, and quietly bold. They don’t seek power for its own sake, but to *protect what they believe in*. Their life is a vow — not to dogma, but to integrity. They live by inner codes, built from deep thought, careful observation, and a commitment to doing what’s right, even when no one’s watching.

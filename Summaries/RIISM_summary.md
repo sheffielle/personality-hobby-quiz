@@ -1,6 +1,5 @@
-# RIISM_summary.md (Mirewalker)
-
-**Who is the Mirewalker?**  
+# Mirewalker
+## Who is the Mirewalker?
 **Code: R-I-I-S-M**
 
 The Mirewalker is emotional steadiness — calm, perceptive, and unafraid of complexity. They don’t avoid messes — they *wade in with grace*. Their strength lies in their ability to stay centered when others unravel, to walk through difficult emotional terrain without losing themselves — or letting go of you.

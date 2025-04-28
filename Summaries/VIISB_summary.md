@@ -1,6 +1,5 @@
-# VIISB_summary.md (Goldthread)
-
-**Who is the Goldthread?**  
+# Goldthread
+## Who is the Goldthread?
 **Code: V-I-I-S-B**
 
 The Goldthread is graceful compassion — elegant, kind, and effortlessly uplifting. They don’t force change; they invite it gently, weaving kindness and beauty into everything they do. Their presence is like a thread of gold, subtly enhancing the world around them and making others feel valued and seen.

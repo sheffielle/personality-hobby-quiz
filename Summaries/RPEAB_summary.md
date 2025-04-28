@@ -1,6 +1,5 @@
-# RPEAB_summary.md (Soulguard)
-
-**Who is the Soulguard?**  
+# Soulguard
+## Who is the Soulguard?
 **Code: R-P-E-A-B**
 
 The Soulguard is fierce compassion — protective, emotionally honest, and deeply principled. They don’t just feel deeply; they defend what’s real and vulnerable in others. Their strength lies in their unwavering loyalty to emotional truth, and their willingness to guard the softest parts of the human experience with powerful, unwavering kindness.

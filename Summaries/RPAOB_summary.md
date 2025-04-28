@@ -1,6 +1,5 @@
-# RPAOB_summary.md (Everwell)
-
-**Who is the Everwell?**  
+# Everwell
+## Who is the Everwell?
 **Code: R-P-A-O-B**
 
 The Everwell is calm confidence — self-sustaining, steady, and inherently whole. They radiate a quiet assurance that comes from a deep sense of inner peace. They don’t need external validation; their confidence is grounded in their own beliefs and values. They are not easily shaken by external circumstances, and their presence offers a sense of calm to everyone around them.

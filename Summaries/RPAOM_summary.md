@@ -1,6 +1,5 @@
-# RPAOM_summary.md (Driftguide)
-
-**Who is the Driftguide?**  
+# Driftguide
+## Who is the Driftguide?
 **Code: R-P-A-O-M**
 
 The Driftguide is effortless guidance — adaptable, fluid, and always able to move with the current while still influencing its direction. They don’t force their way through life; instead, they go with the flow, allowing circumstances to guide them while subtly shaping their path. Their strength lies in their ability to adapt, to be present with the moment, and to influence the direction of the journey without rigid control.

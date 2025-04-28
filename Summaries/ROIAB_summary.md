@@ -1,6 +1,5 @@
-# ROIAB_summary.md (Linelight)
-
-**Who is the Linelight?**  
+# Linelight
+## Who is the Linelight?
 **Code: R-O-I-A-B**
 
 The Linelight is graceful containment — quiet, discerning, and unshakably self-respecting. They don’t take the stage; they *draw the stage* — setting the emotional architecture that allows others to step into their own light. Their strength lies in their mastery of boundary: not as a wall, but as a sacred outline that protects, clarifies, and uplifts.

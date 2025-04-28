@@ -1,6 +1,5 @@
-# ROIOB_summary.md (Dawncaller)
-
-**Who is the Dawncaller?**  
+# Dawncaller
+## Who is the Dawncaller?
 **Code: R-O-I-O-B**
 
 The Dawncaller is morning vision — hopeful, initiating, and quietly luminous. They don’t rush in with noise — they *rise*. Their strength lies in their ability to see the shape of what could be *before* it’s fully formed. They bring warmth and perspective to early moments, when uncertainty still hangs in the air. They don’t command beginnings — they *call them gently into view*.

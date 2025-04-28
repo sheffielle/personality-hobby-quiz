@@ -1,6 +1,5 @@
-## 📄 VOASM_summary.md (Polisher)
-
-**Who is the Polisher?**  
+# Polisher
+## Who is the Polisher?
 **Code: V-O-A-S-M**
 
 The Polisher is the attentive refiner — outgoing, methodical, and motivated by a desire to bring things to their best possible form. They’re not interested in starting things for the sake of it — they want to *complete*, *improve*, and *perfect* what already exists. Whether polishing prose, a project, or a person’s day, they’re driven by a quiet motto: *“This could be better — let me help.”*

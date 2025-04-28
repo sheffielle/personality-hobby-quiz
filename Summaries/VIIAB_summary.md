@@ -1,6 +1,5 @@
-# VIIAB_summary.md (Warmthbringer)
-
-**Who is the Warmthbringer?**  
+# Warmthbringer
+## Who is the Warmthbringer?
 **Code: V-I-I-A-B**
 
 The Warmthbringer is gentle connection — empathetic, intuitive, and instinctively soothing. They don’t confront or overpower; they *soften* the edges of conflict and calm the emotional temperature of any room they enter. Their ability to bring others together is subtle but profound, rooted in an innate understanding of how to nurture, connect, and heal.

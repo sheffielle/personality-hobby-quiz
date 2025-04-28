@@ -1,4 +1,5 @@
-## 🛡️ Who is the Supervisor?
+# Supervisor
+## Who is the Supervisor?
 
 When chaos whispers, the Supervisor answers with calm resolve. They are the stabilizers, the ones who instinctively hold the line when things start to unravel. These individuals are built for structure — not just to follow it, but to *create* it, maintain it, and protect it. With a sharp analytical mind and a grounded sense of duty, the Supervisor ensures that what must be done, *gets done* — and gets done right.
 

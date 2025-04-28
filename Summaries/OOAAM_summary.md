@@ -1,4 +1,5 @@
-## 🧠 Who is the Insightweaver?  
+# Insightweaver
+## Who is the Insightweaver?
 **Code: O-O-A-A-M**
 
 The Insightweaver is the integrative thinker — reflective, nuanced, and deeply skilled in *drawing meaning from the threads others overlook*. They don’t just notice things — they *make sense of them in a way that transforms understanding*.

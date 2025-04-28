@@ -1,6 +1,5 @@
-## 📄 VPASM_summary.md (Caretaker)
-
-**Who is the Caretaker?**  
+# Caretaker
+## Who is the Caretaker?
 **Code: V-P-A-S-M**
 
 The Caretaker is the quiet cornerstone — nurturing, steady, and deeply committed to the well-being of others. They don’t just help — they *hold*. They hold people together, hold traditions alive, hold space when others need rest. Their kindness isn’t loud, but it *lingers*, creating warmth that lasts long after the moment has passed.

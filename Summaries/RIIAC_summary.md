@@ -1,6 +1,5 @@
-# RIIAC_summary.md (Emberrest)
-
-**Who is the Emberrest?**  
+# Emberrest
+## Who is the Emberrest?
 **Code: R-I-I-A-C**
 
 The Emberrest is lingering warmth — steady, soulful, and quietly unforgettable. They don’t radiate heat loudly — they *hold it*. Their strength lies in their capacity to preserve meaning, memory, and connection long after others have moved on. They are the emotional hearth — *still glowing when the room is empty*.

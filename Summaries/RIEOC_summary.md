@@ -1,6 +1,5 @@
-# RIEOC_summary.md (Mendlight)
-
-**Who is the Mendlight?**  
+# Mendlight
+## Who is the Mendlight?
 **Code: R-I-E-O-C**
 
 The Mendlight is restorative grace — gentle, intentional, and emotionally skilled. They don’t avoid rupture — they *step toward it with compassion*. Their strength lies in the quiet art of repair — mending emotional wounds with patience, nuance, and unwavering care. They embody the belief that healing is not just possible — it’s *an act of love*.

@@ -1,6 +1,5 @@
-# VIAOC_summary.md (Stillvoice)
-
-**Who is the Stillvoice?**  
+# Stillvoice
+## Who is the Stillvoice?
 **Code: V-I-A-O-C**
 
 The Stillvoice is quiet gravity — reserved, reflective, and deeply resonant. They don’t speak often, but when they do, it feels sacred. Every word carries intention, shaped by stillness and distilled insight. They don’t compete for attention — they *command* it, gently.

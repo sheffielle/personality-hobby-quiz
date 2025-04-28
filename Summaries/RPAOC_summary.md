@@ -1,6 +1,5 @@
-# RPAOC_summary.md (Noteholder)
-
-**Who is the Noteholder?**  
+# Noteholder
+## Who is the Noteholder?
 **Code: R-P-A-O-C**
 
 The Noteholder is emotional memory — attentive, compassionate, and always mindful of what matters to others. They don’t just remember facts; they remember feelings, connections, and the little things that others may overlook. Their strength lies in their ability to keep emotional details in tune, creating a deep sense of trust by showing they truly understand and care about the needs of others.

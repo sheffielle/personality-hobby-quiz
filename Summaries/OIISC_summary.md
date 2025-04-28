@@ -1,4 +1,5 @@
-## 🌱 Who is the Gatherer?  
+# Gatherer
+## Who is the Gatherer?
 **Code: O-I-I-S-C**
 
 The Gatherer is the resourceful connector — observant, intuitive, and deeply attuned to *collecting and gathering the people, ideas, and resources that are essential to creating something meaningful*. They don’t just collect — they *select and bring together the most valuable elements to make something greater*.

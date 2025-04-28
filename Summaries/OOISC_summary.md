@@ -1,4 +1,5 @@
-## 🌟 Who is the Lightwarden?  
+# Lightwarden
+## Who is the Lightwarden?
 **Code: O-O-I-S-C**
 
 The Lightwarden is the quiet protector — steady, intuitive, and deeply attuned to *guarding and nurturing the light within others*. They don’t seek the spotlight — they *ensure that it’s always burning brightly for those they care about*.

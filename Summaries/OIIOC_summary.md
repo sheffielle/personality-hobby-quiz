@@ -1,4 +1,5 @@
-## 📚 Who is the Archivist?  
+# Archivist
+## Who is the Archivist?
 **Code: O-I-I-O-C**
 
 The Archivist is the meticulous keeper — detail-oriented, organized, and deeply committed to *preserving knowledge, history, and the valuable insights of the past*. They don’t just store information — they *carefully curate and organize it so that it can be accessed and used effectively*.

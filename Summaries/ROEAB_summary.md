@@ -1,6 +1,5 @@
-# ROEAB_summary.md (Soulbloom)
-
-**Who is the Soulbloom?**  
+# Soulbloom
+## Who is the Soulbloom?
 **Code: R-O-E-A-B**
 
 The Soulbloom is nurtured expression — warm, present, and emotionally radiant. They don’t demand attention — they *flourish when the moment is safe, seen, and ready*. Their strength lies in how they bloom *with* others, bringing softness, joy, and care into spaces that need it most. They’re a source of subtle light — not blinding, but *gentle enough to grow by*.

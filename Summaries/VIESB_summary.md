@@ -1,6 +1,5 @@
-# VIESB_summary.md (Clearweaver)
-
-**Who is the Clearweaver?**  
+# Clearweaver
+## Who is the Clearweaver?
 **Code: V-I-E-S-B**
 
 The Clearweaver is calm clarity — composed, insightful, and always focused on making complex ideas accessible. They don’t just simplify for the sake of simplicity; they help others understand complexity, turning it into something coherent and digestible. Their strength lies in their ability to weave together the threads of confusion into a clear and calming whole, offering others a sense of peace through understanding.

@@ -1,6 +1,5 @@
-# VIEAM_summary.md (Mapwright)
-
-**Who is the Mapwright?**  
+# Mapwright
+## Who is the Mapwright?
 **Code: V-I-E-A-M**
 
 The Mapwright is practical poetry — inventive, grounded, and always focused on finding the right path. They don’t just know how to get from point A to point B; they know how to make the journey meaningful. Their strength lies in their ability to combine vision with practicality, creating clear, effective paths while appreciating the beauty in every step of the way.

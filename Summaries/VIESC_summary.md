@@ -1,6 +1,5 @@
-# VIESC_summary.md (Hearthfinder)
-
-**Who is the Hearthfinder?**  
+# Hearthfinder
+## Who is the Hearthfinder?
 **Code: V-I-E-S-C**
 
 The Hearthfinder is quiet community — steadfast, reliable, and always committed to building strong bonds through consistency. They don’t seek to be the loudest voice in the room, but their influence is felt in the quiet, constant ways they build and nurture communities. Their strength lies in their ability to connect people and foster a sense of belonging, one small step at a time.

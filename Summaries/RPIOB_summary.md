@@ -1,6 +1,5 @@
-# RPIOB_summary.md (Pulsefinder)
-
-**Who is the Pulsefinder?**  
+# Pulsefinder
+## Who is the Pulsefinder?
 **Code: R-P-I-O-B**
 
 The Pulsefinder is perceptive care — intuitive, observant, and always in tune with the subtle emotional currents around them. They don’t just see what’s on the surface; they sense what’s missing, the unspoken needs that others might overlook. Their strength lies in their ability to detect what others may not even realize they need and offer support in a way that fills the gaps.

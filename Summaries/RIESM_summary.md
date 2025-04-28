@@ -1,6 +1,5 @@
-# RIESM_summary.md (Cinderglow)
-
-**Who is the Cinderglow?**  
+# Cinderglow
+## Who is the Cinderglow?
 **Code: R-I-E-S-M**
 
 The Cinderglow is enduring warmth — soft, steady, and deeply rooted. They don’t flare or fade — they *persist*. Their strength is the kind that doesn’t demand attention, but quietly survives what others can’t. They’re the low, glowing ember that keeps the room warm long after the fire dies down. You don’t always notice them first — but *you’ll feel the cold when they’re gone*.

@@ -1,6 +1,5 @@
-## 📄 VOAOM_summary.md (Cultivator)
-
-**Who is the Cultivator?**  
+# Cultivator
+## Who is the Cultivator?
 **Code: V-O-A-O-M**
 
 The Cultivator is the enthusiastic nurturer — outgoing, patient, and deeply devoted to growing potential in others and the world around them. They don’t rush the process — they *tend to it*. Whether they’re building relationships, businesses, or community gardens, Cultivators bring energy and optimism to the slow work of progress.

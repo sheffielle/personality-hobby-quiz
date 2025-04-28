@@ -1,6 +1,5 @@
-## 📄 VPESB_summary.md (Pacemaker)
-
-**Who is the Pacemaker?**  
+# Pacemaker
+## Who is the Pacemaker?
 **Code: V-P-E-S-B**
 
 The Pacemaker is the grounded initiator — expressive, steady, and driven to maintain consistent forward motion. They aren't showy sprinters or spontaneous explorers — they are *endurance strategists*. While others burn out or lose focus, the Pacemaker keeps the momentum going, one reliable step at a time.

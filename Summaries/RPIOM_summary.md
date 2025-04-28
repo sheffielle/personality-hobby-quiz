@@ -1,6 +1,5 @@
-# RPIOM_summary.md (Starcaller)
-
-**Who is the Starcaller?**  
+# Starcaller
+## Who is the Starcaller?
 **Code: R-P-I-O-M**
 
 The Starcaller is visionary inspiration — imaginative, bold, and always encouraging others to dream bigger and aim further. They don’t just see the world as it is; they see it as it could be, and they are driven by the desire to inspire others to stretch beyond their limits. Their strength lies in their ability to spark imagination and ignite ambition in others, always pushing them to reach for the stars.

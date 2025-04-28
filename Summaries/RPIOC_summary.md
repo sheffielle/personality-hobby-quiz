@@ -1,6 +1,5 @@
-# RPIOC_summary.md (Havenmaker)
-
-**Who is the Havenmaker?**  
+# Havenmaker
+## Who is the Havenmaker?
 **Code: R-P-I-O-C**
 
 The Havenmaker is refuge and security — protective, nurturing, and deeply attuned to the need for safety and rest. They don’t just offer shelter; they create spaces, both emotional and physical, where others can feel safe, cared for, and free to be vulnerable. Their strength lies in their ability to offer protection and support, providing a haven for those who need it most.

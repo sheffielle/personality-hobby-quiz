@@ -1,6 +1,5 @@
-## 📄 VPISC_summary.md (Instructor)
-
-**Who is the Instructor?**  
+# Instructor
+## Who is the Instructor?
 **Code: V-P-I-S-C**
 
 The Instructor is the meticulous mentor — introspective, structured, and quietly empowering. They don’t just pass on knowledge — they *cultivate mastery*. For the Instructor, teaching isn’t performance — it’s precision. Their satisfaction doesn’t come from applause, but from watching a light switch on in someone else's eyes.

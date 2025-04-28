@@ -1,4 +1,5 @@
-## 🤲 Who is the Supporter?  
+# Supporter
+## Who is the Supporter?
 **Code: O-P-E-A-M**
 
 The Supporter is the steady right hand — dependable, empathetic, and deeply attuned to *helping others succeed by being the calm, consistent force behind the scenes*. They don’t seek the spotlight — they *hold the foundation it stands on*.

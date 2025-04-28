@@ -1,6 +1,5 @@
-# VIEOM_summary.md (Pathmender)
-
-**Who is the Pathmender?**  
+# Pathmender
+## Who is the Pathmender?
 **Code: V-I-E-O-M**
 
 The Pathmender is compassionate repair — thoughtful, empathetic, and driven to heal broken things. They don’t just fix what’s damaged; they help to restore what’s been lost, whether that’s a fractured idea, a relationship in need of mending, or a path that’s been obscured by hardship. Their strength lies not just in their ability to repair, but in their understanding of what it takes to make things whole again.

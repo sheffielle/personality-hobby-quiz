@@ -1,4 +1,5 @@
-## 🗣 Who is the Voiceholder?  
+# Voiceholder
+## Who is the Voiceholder?
 **Code: O-I-I-O-B**
 
 The Voiceholder is the articulate mediator — thoughtful, expressive, and skilled at *communicating complex ideas and emotions clearly and persuasively*. They don’t just speak — they *amplify voices, ensuring that the right words reach the right ears*.

@@ -1,6 +1,5 @@
-# ROIAC_summary.md (Threadhaven)
-
-**Who is the Threadhaven?**  
+# Threadhaven
+## Who is the Threadhaven?
 **Code: R-O-I-A-C**
 
 The Threadhaven is relational sanctuary — soft, inviting, and gently stabilizing. They don’t rush people — they *make space for them*. Their strength lies in their ability to create emotional environments where vulnerability isn’t just allowed — it’s welcomed. They’re the hearth around which connection gathers and warms.

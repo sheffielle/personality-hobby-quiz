@@ -1,4 +1,5 @@
-## 🏛 Who is the Curator?  
+# Curator
+## Who is the Curator?
 **Code: O-I-I-A-C**
 
 The Curator is the thoughtful organizer — discerning, detail-oriented, and deeply committed to *preserving, managing, and showcasing what is meaningful and valuable*. They don’t just collect — they *select, arrange, and present with intention, creating cohesive and engaging collections*.

@@ -1,6 +1,5 @@
-# VIISC_summary.md (Stillroot)
-
-**Who is the Stillroot?**  
+# Stillroot
+## Who is the Stillroot?
 **Code: V-I-I-S-C**
 
 The Stillroot is rooted strength — grounded, reliable, and centered in simplicity. They don’t seek attention or recognition; they are content in their quiet, steady presence. Their strength is unshakeable, drawn from a deep understanding of what matters most, and they offer this strength as a solid foundation for others to build on.

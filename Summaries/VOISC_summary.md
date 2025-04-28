@@ -1,6 +1,5 @@
-## 📄 VOISC_summary.md (Northlight)
-
-**Who is the Northlight?**  
+# Northlight
+## Who is the Northlight?
 **Code: V-O-I-S-C**
 
 The Northlight is the quiet compass — introspective, grounded, and deeply principled. They don’t push or shout, but they *guide* — gently, steadily, from a place of deep inner clarity. Northlights have a stabilizing presence that says, *“Even in the dark, there’s a direction worth walking toward.”*

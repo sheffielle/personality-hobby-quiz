@@ -1,6 +1,5 @@
-# RIEAM_summary.md (Whisperstead)
-
-**Who is the Whisperstead?**  
+# Whisperstead
+## Who is the Whisperstead?
 **Code: R-I-E-A-M**
 
 The Whisperstead is strength in stillness — emotionally aware, softly grounded, and quietly resilient. They don’t overpower — they *endure*. Their strength lies in how they hold delicate emotional truths without crumbling, how they remain present in discomfort without rushing to fix. They are the quiet ones whose love *outlasts noise*.

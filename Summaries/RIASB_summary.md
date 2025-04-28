@@ -1,6 +1,5 @@
-# RIASB_summary.md (Quietreach)
-
-**Who is the Quietreach?**  
+# Quietreach
+## Who is the Quietreach?
 **Code: R-I-A-S-B**
 
 The Quietreach is peace extended without condition — gentle, welcoming, and profoundly nonintrusive. They don’t reach to grasp — they *reach to reassure*. Their strength lies in the way they offer connection without agenda, presence without pressure. They remind others that they don’t have to *do* anything to be loved — they just have to *be*.

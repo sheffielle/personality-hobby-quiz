@@ -1,6 +1,5 @@
-# ROIAM_summary.md (Kindroot)
-
-**Who is the Kindroot?**  
+# Kindroot
+## Who is the Kindroot?
 **Code: R-O-I-A-M**
 
 The Kindroot is grounding love — deeply empathetic, quietly steady, and emotionally nourishing. They don’t broadcast care — they *embody* it. Their strength lies in their ability to make others feel known, accepted, and emotionally safe. They’re the roots beneath the surface — unseen by many, but holding everything upright.

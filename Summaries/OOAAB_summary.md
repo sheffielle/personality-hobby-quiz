@@ -1,4 +1,5 @@
-## 🧭 Who is the Wayfinder?  
+# Wayfinder
+## Who is the Wayfinder?
 **Code: O-O-A-A-B**
 
 The Wayfinder is the intuitive navigator — perceptive, adaptive, and naturally attuned to *sensing direction through complexity and change*. They don’t need a map — they *feel the path forward, even when others are lost*.

@@ -1,6 +1,5 @@
-# ROIOC_summary.md (Soulprint)
-
-**Who is the Soulprint?**  
+# Soulprint
+## Who is the Soulprint?
 **Code: R-O-I-O-C**
 
 The Soulprint is quiet resonance — emotionally rich, deeply intuitive, and subtly unforgettable. They don’t try to leave an impression — they simply do, by being fully themselves. Their strength lies in the authenticity of their presence: something about them lingers, even in silence, even after they’ve gone. They shape memory not through intensity, but through emotional *truth*.

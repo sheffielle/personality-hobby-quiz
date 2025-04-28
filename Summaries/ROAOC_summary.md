@@ -1,6 +1,5 @@
-# ROAOC_summary.md (Signal)
-
-**Who is the Signal?**  
+# Signal
+## Who is the Signal?
 **Code: R-O-A-O-C**
 
 The Signal is presence incarnate — still, observant, and unmistakably clear. They don’t need to speak loudly or often. Their impact comes not from volume, but from resonance — a kind of energy that grounds, guides, and reassures simply by existing. Their strength lies in the quality of their presence — attuned, composed, and deeply meaningful.

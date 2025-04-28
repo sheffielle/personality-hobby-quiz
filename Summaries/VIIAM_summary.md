@@ -1,6 +1,5 @@
-# VIIAM_summary.md (Emberholder)
-
-**Who is the Emberholder?**  
+# Emberholder
+## Who is the Emberholder?
 **Code: V-I-I-A-M**
 
 The Emberholder is quiet persistence — devoted, patient, and committed to the long-term. They don’t rush to create change; they tend to it, nurturing their passions and commitments with a steady, quiet intensity. Their energy is not fleeting; it’s slow-burning, enduring, and driven by deep personal values.

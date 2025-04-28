@@ -1,4 +1,5 @@
-## 🔥 Who is the Torchbearer?  
+# Torchbearer
+## Who is the Torchbearer?
 **Code: O-I-E-O-B**
 
 The Torchbearer is the inspiring guide — brave, passionate, and deeply committed to *leading others through challenges and uncertainty with unwavering belief in the vision ahead*. They don’t just follow — they *carry the torch for others, lighting the way through their example and conviction*.

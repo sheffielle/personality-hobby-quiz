@@ -1,4 +1,5 @@
-## 🌍 Who is the Mediator?  
+# Mediator
+## Who is the Mediator?
 **Code: O-I-E-S-B**
 
 The Mediator is the peacemaker — diplomatic, patient, and deeply committed to *fostering harmony and resolving conflicts through understanding, compromise, and communication*. They don’t just mediate — they *actively listen, seek mutual understanding, and facilitate productive conversations*.

@@ -1,4 +1,5 @@
-## 🌱 Who is the Steward?  
+# Steward
+## Who is the Steward?
 **Code: O-O-E-O-C**
 
 The Steward is the responsible guardian — nurturing, reliable, and deeply invested in *safeguarding resources, people, and the environment for future generations*. They don’t just protect — they *cultivate, preserve, and ensure sustainability*.

@@ -1,6 +1,5 @@
-# RPEAC_summary.md (Skyhold)
-
-**Who is the Skyhold?**  
+# Skyhold
+## Who is the Skyhold?
 **Code: R-P-E-A-C**
 
 The Skyhold is quiet elevation — calm, dignified, and emotionally expansive. They don’t need to speak loudly to be heard. Their presence alone has a grounding, uplifting effect. Like a mountain at sunrise or a tall lookout post, they offer perspective, serenity, and a kind of wisdom that comes from watching patiently and rising above the noise.

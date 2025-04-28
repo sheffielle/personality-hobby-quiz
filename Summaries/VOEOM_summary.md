@@ -1,6 +1,5 @@
-# VOEOM_summary.md (Harbor)
-
-**Who is the Harbor?**  
+# Harbor
+## Who is the Harbor?
 **Code: V-O-E-O-M**
 
 The Harbor is a refuge — calm, receptive, and deeply steady. In a world that often churns with chaos, Harbors offer anchorage. Their emotional openness doesn’t make them fragile — it makes them trustworthy. They take in the storm without becoming it, listening carefully, loving steadily, and grounding those around them.

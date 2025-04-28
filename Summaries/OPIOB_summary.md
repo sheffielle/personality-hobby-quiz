@@ -1,4 +1,5 @@
-## 🧿 Who is the Representative?  
+# Representative
+## Who is the Representative?
 **Code: O-P-I-O-B**
 
 The Representative is the voice of the collective — poised, articulate, and deeply attuned to *speaking on behalf of others with clarity and care*. They don’t just express their own views — they *stand as a conduit for shared experience*.

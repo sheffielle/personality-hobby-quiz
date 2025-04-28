@@ -1,4 +1,5 @@
-## 🧸 Who is the Caretender?  
+# Caretender
+## Who is the Caretender?
 **Code: O-O-E-O-B**
 
 The Caretender is the compassionate nurturer — kind, patient, and innately skilled at *providing care, comfort, and stability* to those who need it most. They don’t just offer help — they *create a space where healing and growth can happen*.

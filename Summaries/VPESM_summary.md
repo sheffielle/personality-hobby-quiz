@@ -1,6 +1,5 @@
-## 📄 VPESM_summary.md (Insightist)
-
-**Who is the Insightist?**  
+# Insightist
+## Who is the Insightist?
 **Code: V-P-E-S-M**
 
 The Insightist is the pattern-finder — expressive, analytical, and quietly revolutionary. They don’t react to surface noise — they *listen for the signal underneath*. To them, the world is full of coded messages, hidden truths, and opportunities for clarity. Their greatest thrill? Watching the lightbulb go off — in themselves or someone else.

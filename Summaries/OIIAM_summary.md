@@ -1,4 +1,5 @@
-## 🧭 Who is the Threadwalker?  
+# Threadwalker
+## Who is the Threadwalker?
 **Code: O-I-I-A-M**
 
 The Threadwalker is the deep thinker — introspective, thoughtful, and highly attuned to *the underlying patterns and connections that weave through people, ideas, and events*. They don’t just observe — they *connect the dots, seeing what is often hidden in plain sight*.

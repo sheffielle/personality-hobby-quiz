@@ -1,6 +1,5 @@
-# RIIOB_summary.md (Sagebeam)
-
-**Who is the Sagebeam?**  
+# Sagebeam
+## Who is the Sagebeam?
 **Code: R-I-I-O-B**
 
 The Sagebeam is wisdom in warmth — perceptive, kind, and luminously steady. They don’t flaunt what they know — they *offer it gently, like light through trees*. Their strength lies in their ability to hold deep insight without condescension. They are old souls who don’t make you feel small — they make you feel *seen*.

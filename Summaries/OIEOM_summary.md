@@ -1,4 +1,5 @@
-## 👩‍🏫 Who is the Mentor?  
+# Mentor
+## Who is the Mentor?
 **Code: O-I-E-O-M**
 
 The Mentor is the wise guide — nurturing, insightful, and deeply committed to *helping others grow and develop by offering knowledge, experience, and encouragement*. They don’t just teach — they *empower others to reach their full potential through careful guidance and support*.

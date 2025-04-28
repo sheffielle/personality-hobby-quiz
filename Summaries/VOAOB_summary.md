@@ -1,6 +1,5 @@
-## 📄 VOAOB_summary.md (Advocate)
-
-**Who is the Advocate?**  
+# Advocate
+## Who is the Advocate?
 **Code: V-O-A-O-B**
 
 The Advocate is the energized champion — outgoing, principled, and unwavering in their desire to protect and uplift. They don’t just stand up for what’s right — they *rally others to do the same*. Whether it’s for a cause, a friend, or a belief, the Advocate is both voice and action, persistence and presence.

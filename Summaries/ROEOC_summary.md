@@ -1,6 +1,5 @@
-# ROEOC_summary.md (Tendermark)
-
-**Who is the Tendermark?**  
+# Tendermark
+## Who is the Tendermark?
 **Code: R-O-E-O-C**
 
 The Tendermark is an emotional archivist — reflective, present, and deeply attuned to meaning. They don’t just remember events — they *remember how it felt*. Their strength lies in their ability to hold the emotional texture of moments with reverence. They carry memories like keepsakes, gently reminding others of what mattered most when it mattered most.

@@ -1,6 +1,5 @@
-# VIASC_summary.md (Steadyhand)
-
-**Who is the Steadyhand?**  
+# Steadyhand
+## Who is the Steadyhand?
 **Code: V-I-A-S-C**
 
 The Steadyhand is calm control — grounded, reliable, and unshaken under pressure. When others flinch, they stay firm. Their strength is not loud or forceful, but it is present and steady. In chaotic situations, they are the anchor, the person who others instinctively trust to hold the line.

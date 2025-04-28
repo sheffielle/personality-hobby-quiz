@@ -1,6 +1,5 @@
-# VIAOM_summary.md (Guidepost)
-
-**Who is the Guidepost?**  
+# Guidepost
+## Who is the Guidepost?
 **Code: V-I-A-O-M**
 
 The Guidepost is a quiet orientation point — thoughtful, grounded, and deeply trustworthy. They don’t command others to follow; they simply live with such clarity that others *choose* to. Through presence rather than pressure, Guideposts help people find their way — not by leading them, but by reminding them where they are.

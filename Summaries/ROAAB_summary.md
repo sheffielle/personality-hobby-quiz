@@ -1,6 +1,5 @@
-# ROAAB_summary.md (Loomwright)
-
-**Who is the Loomwright?**  
+# Loomwright
+## Who is the Loomwright?
 **Code: R-O-A-A-B**
 
 The Loomwright is quiet integration — a weaver of connection, meaning, and grounded belonging. They don’t force coherence; they *foster* it, patiently bringing together people, values, and environments until everything feels like it belongs. Their strength lies in their ability to thread emotional truth into shared structure, making spaces feel held, intentional, and whole.

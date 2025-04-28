@@ -1,6 +1,5 @@
-# VOEAC_summary.md (Wellspring)
-
-**Who is the Wellspring?**  
+# Wellspring
+## Who is the Wellspring?
 **Code: V-O-E-A-C**
 
 The Wellspring is quiet abundance — deeply rooted, quietly radiant, and endlessly generative. They don’t need to seek attention to have impact. Instead, they replenish others simply by being fully themselves. Their creativity flows not from pressure, but from inner alignment — a steady current of care and possibility.

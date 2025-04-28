@@ -1,4 +1,5 @@
-## 🤝 Who is the Harmonizer?  
+# Harmonizer
+## Who is the Harmonizer?
 **Code: O-O-E-S-M**
 
 The Harmonizer is the peacemaker — empathetic, patient, and naturally skilled at *creating balance and unity in every situation*. They don’t just manage conflict — they *seek to resolve it by fostering understanding and connection*.

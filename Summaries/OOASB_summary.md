@@ -1,4 +1,5 @@
-## 🔥 Who is the Igniter?  
+# Igniter
+## Who is the Igniter?
 **Code: O-O-A-S-B**
 
 The Igniter is the spark of transformation — bold, kinetic, and instinctively driven to *jumpstart change, momentum, and breakthrough where stagnation has taken hold*. They don’t wait for the right time — they *create it with fire and faith*.

@@ -1,4 +1,5 @@
-## 🏛 Who is the Architect?  
+# Architect
+## Who is the Architect?
 **Code: O-I-A-S-C**
 
 The Architect is the master planner — visionary, precise, and deeply invested in *creating structures that not only serve a function, but elevate the human experience*. They don’t just build — they *design with intention, clarity, and purpose*.

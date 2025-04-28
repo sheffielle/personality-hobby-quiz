@@ -1,6 +1,5 @@
-# VIEOC_summary.md (Thoughtwarden)
-
-**Who is the Thoughtwarden?**  
+# Thoughtwarden
+## Who is the Thoughtwarden?
 **Code: V-I-E-O-C**
 
 The Thoughtwarden is protector of clarity — resolute, reasoned, and deeply committed to guarding truth. They don’t back down from their beliefs, nor do they allow confusion to cloud their vision. Their strength is in their unwavering commitment to reason, offering clarity to those around them in times of uncertainty. They are the ones who defend clarity, who preserve the integrity of thought, and who protect reason from the forces of distraction or doubt.

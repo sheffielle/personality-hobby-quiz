@@ -1,4 +1,5 @@
-## 🌿 Who is the Empath?  
+# Empath
+## Who is the Empath?
 **Code: O-O-E-A-B**
 
 The Empath is the compassionate listener — intuitive, nurturing, and naturally attuned to *the emotions and energies around them*. They don’t just hear — they *feel* what others are experiencing, making them exceptional caregivers, friends, and allies.

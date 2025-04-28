@@ -1,6 +1,5 @@
-# RPISM_summary.md (Oathbearer)
-
-**Who is the Oathbearer?**  
+# Oathbearer
+## Who is the Oathbearer?
 **Code: R-P-I-S-M**
 
 The Oathbearer is enduring loyalty — principled, thoughtful, and bound by their word. They don’t just make commitments; they treat their promises like sacred contracts, anchoring themselves and others with reliability and emotional depth. Their strength lies in their devotion to what (and who) they care about, offering others a sense of certainty in a world that often feels unsteady.

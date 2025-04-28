@@ -1,6 +1,5 @@
-# ROAOB_summary.md (Soultrail)
-
-**Who is the Soultrail?**  
+# Soultrail
+## Who is the Soultrail?
 **Code: R-O-A-O-B**
 
 The Soultrail is sacred direction — intuitive, legacy-driven, and deeply devoted. They don’t wander aimlessly — they walk paths laced with purpose, even if that purpose isn’t fully understood yet. Their strength lies in their connection to something larger than themselves: a calling, a lineage, a spiritual pull. They move through the world like they’re carrying both memory and hope.

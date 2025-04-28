@@ -1,4 +1,5 @@
-## 🚀 Who is the Vanguard?  
+# Vanguard
+## Who is the Vanguard?
 **Code: O-I-I-A-B**
 
 The Vanguard is the trailblazer — bold, innovative, and passionate about *pushing boundaries and challenging the status quo*. They don’t just lead — they *forge new paths, guiding others into uncharted territory*.

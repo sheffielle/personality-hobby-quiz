@@ -1,6 +1,5 @@
-# RIAAM_summary.md (Glowtone)
-
-**Who is the Glowtone?**  
+# Glowtone
+## Who is the Glowtone?
 **Code: R-I-A-A-M**
 
 The Glowtone is emotional resonance — warm, harmonious, and subtly vibrant. They don’t seek to dominate a space — they *tune it*. Their strength lies in their ability to bring warmth and balance wherever they are, like a familiar melody that eases tension and softens edges. They aren’t loud — but they’re unmistakably *felt*.

@@ -1,4 +1,5 @@
-## 🧭 Who is the Companion?  
+# Companion
+## Who is the Companion?
 **Code: O-P-E-A-C**
 
 The Companion is the quiet constant — present, dependable, and profoundly human in the way they *walk alongside others through all seasons of life*. They don’t fix — they *stay*.

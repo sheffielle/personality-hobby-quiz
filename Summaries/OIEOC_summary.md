@@ -1,4 +1,5 @@
-## 💖 Who is the Heartsmith?  
+# Heartsmith
+## Who is the Heartsmith?
 **Code: O-I-E-O-C**
 
 The Heartsmith is the empathetic creator — compassionate, nurturing, and deeply committed to *shaping connections and experiences that foster love, trust, and emotional well-being*. They don’t just care — they *care with intention, ensuring that every interaction and every relationship is built on understanding and respect*.

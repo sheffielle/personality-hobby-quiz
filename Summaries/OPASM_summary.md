@@ -1,4 +1,5 @@
-## 🤝 Who is the Facilitator?  
+# Facilitator
+## Who is the Facilitator?
 **Code: O-P-A-S-M**
 
 The Facilitator is the people-smoother — composed, practical, and deeply gifted at *making group interactions feel clear, collaborative, and productive*. They don’t dominate a room — they *align it*.

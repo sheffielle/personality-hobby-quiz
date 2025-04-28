@@ -1,6 +1,5 @@
-# RPEAM_summary.md (Pulseguide)
-
-**Who is the Pulseguide?**  
+# Pulseguide
+## Who is the Pulseguide?
 **Code: R-P-E-A-M**
 
 The Pulseguide is rhythm in human form — emotionally attuned, quietly observant, and gently directive. They don’t dominate a space; they calibrate it. Their strength lies in their ability to sense when a group or conversation is out of sync and gently realign it through presence, timing, and calm influence. They lead without pushing — adjusting the tempo of connection with effortless grace.

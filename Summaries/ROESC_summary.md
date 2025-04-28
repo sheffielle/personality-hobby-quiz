@@ -1,6 +1,5 @@
-# ROESC_summary.md (Softruth)
-
-**Who is the Softruth?**  
+# Softruth
+## Who is the Softruth?
 **Code: R-O-E-S-C**
 
 The Softruth is gentle candor — warm, thoughtful, and quietly disarming. They don’t use truth as a weapon — they *offer it like a balm*. Their strength lies in their ability to speak with honesty *and* tenderness, naming what’s real without ever abandoning kindness. They are living proof that clarity doesn’t have to cut — it can *care*.

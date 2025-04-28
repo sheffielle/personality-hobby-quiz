@@ -1,4 +1,5 @@
-## 🎤 Who is the Campaigner?  
+# Campaigner
+## Who is the Campaigner?
 **Code: O-O-I-S-B**
 
 The Campaigner is the passionate advocate — energetic, motivating, and driven by *a vision of a better future that they inspire others to believe in*. They don’t just share ideas — they *rally others to join a cause*.

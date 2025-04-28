@@ -1,6 +1,5 @@
-# ROISB_summary.md (Pulsequiet)
-
-**Who is the Pulsequiet?**  
+# Pulsequiet
+## Who is the Pulsequiet?
 **Code: R-O-I-S-B**
 
 The Pulsequiet is emotional resonance without noise — deeply attuned, inwardly rich, and almost invisibly supportive. They don’t need words to understand people — they *read silence like language*. Their strength lies in their presence: subtle, steady, and profoundly felt. They offer grounding not through what they say, but through the *stillness they share*.

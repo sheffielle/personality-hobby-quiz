@@ -1,6 +1,5 @@
-# RPASC_summary.md (Openreach)
-
-**Who is the Openreach?**  
+# Openreach
+## Who is the Openreach?
 **Code: R-P-A-S-C**
 
 The Openreach is welcoming care — selfless, kind, and deeply attuned to the needs of others. They don’t give to gain or expect anything in return; their care is freely extended to everyone they encounter. Their strength lies in their ability to create a space of openness and trust, where others feel safe, accepted, and supported. They embrace others with warmth and compassion, always ready to offer care without any agenda.

@@ -1,6 +1,5 @@
-# RPISC_summary.md (Mindlight)
-
-**Who is the Mindlight?**  
+# Mindlight
+## Who is the Mindlight?
 **Code: R-P-I-S-C**
 
 The Mindlight is quiet brilliance — thoughtful, observant, and sharp with insight. They don’t seek attention, but they naturally draw it when they speak, because their words are lit by logic and depth. They’re the type who shines a subtle light into complex problems, revealing patterns others may have missed. Their strength lies in their clarity of mind and the steady confidence they bring to the unseen.

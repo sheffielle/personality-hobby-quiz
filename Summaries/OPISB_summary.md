@@ -1,4 +1,5 @@
-## 🛰️ Who is the Field Agent?  
+# Agent
+## Who is the Agent?
 **Code: O-P-I-S-B**
 
 The Field Agent is the on-the-ground operator — observant, resilient, and purpose-driven with a knack for *navigating high-stakes environments quietly and competently*. They don’t need the spotlight — they *need results*.

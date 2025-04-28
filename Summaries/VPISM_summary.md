@@ -1,6 +1,5 @@
-## 📄 VPISM_summary.md (Frameworker)
-
-**Who is the Frameworker?**  
+# Frameworker
+## Who is the Frameworker?
 **Code: V-P-I-S-M**
 
 The Frameworker is the system-builder — introspective, methodical, and quietly ingenious. They don’t chase attention — they *build the scaffolding* that allows everything else to function. Others chase spark; the Frameworker creates structure — elegant, reliable, and often invisible until it’s removed.

@@ -1,6 +1,5 @@
-# ROESB_summary.md (Nestmaker)
-
-**Who is the Nestmaker?**  
+# Nestmaker
+## Who is the Nestmaker?
 **Code: R-O-E-S-B**
 
 The Nestmaker is quiet care in action — steady, loving, and intimately attuned. They don’t speak loudly about love — they *tuck it into corners of daily life*. Their strength lies in the rituals they create, the spaces they hold, and the small gestures that make people feel safe. With them, care isn’t announced — it’s *woven*.

@@ -1,6 +1,5 @@
-# RPAAB_summary.md (Tidebearer)
-
-**Who is the Tidebearer?**  
+# Tidebearer
+## Who is the Tidebearer?
 **Code: R-P-A-A-B**
 
 The Tidebearer is emotional rhythm — present, poetic, and deeply anchored in the currents of feeling. They don’t rush through life; instead, they move with the ebb and flow of emotions, embracing the natural rhythm of life’s highs and lows. Their strength lies in their ability to remain grounded while being attuned to the emotional currents around them, offering others a steady presence amidst change.

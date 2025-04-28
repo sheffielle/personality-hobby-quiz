@@ -1,6 +1,5 @@
-# RPAAM_summary.md (Rootwarden)
-
-**Who is the Rootwarden?**  
+# Rootwarden
+## Who is the Rootwarden?
 **Code: R-P-A-A-M**
 
 The Rootwarden is steadfast protection — humble, resolute, and deeply committed to safeguarding core values. They don’t seek recognition for their work, but instead focus on ensuring that the principles they hold dear are preserved and respected. Their strength lies in their quiet, unwavering dedication to what is truly important, and they act as guardians for the values that shape their world.

@@ -1,6 +1,5 @@
-# VOESC_summary.md (Fieldhand)
-
-**Who is the Fieldhand?**  
+# Fieldhand
+## Who is the Fieldhand?
 **Code: V-O-E-S-C**
 
 The Fieldhand is steady motion — grounded, practical, and full of quiet heart. They don’t chase grand gestures or recognition; they show up, day after day, because that’s where meaning lives. In a world of flashes and noise, Fieldhands are the rhythm — persistent, humble, and essential.

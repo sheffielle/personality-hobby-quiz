@@ -1,6 +1,5 @@
-# RIAOB_summary.md (Heartsill)
-
-**Who is the Heartsill?**  
+# Heartsill
+## Who is the Heartsill?
 **Code: R-I-A-O-B**
 
 The Heartsill is emotional stillness — calming, grounded, and quietly anchoring. They don’t chase peace — they *become it*. Their strength lies in their presence: the kind that slows the room, softens the noise, and reminds everyone to exhale. They’re not flashy or intense — they’re *what steadiness feels like when it finally arrives*.

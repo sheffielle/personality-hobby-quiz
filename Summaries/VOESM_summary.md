@@ -1,6 +1,5 @@
-# VOESM_summary.md (Firesoul)
-
-**Who is the Firesoul?**  
+# Firesoul
+## Who is the Firesoul?
 **Code: V-O-E-S-M**
 
 The Firesoul is inner flame made manifest — passionate, present, and unapologetically alive. They don’t burn to destroy; they burn to illuminate. With fierce sincerity and emotional courage, they speak what others only feel, and act when others hesitate. Their warmth is not performative — it’s personal.

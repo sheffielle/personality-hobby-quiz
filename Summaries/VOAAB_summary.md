@@ -1,6 +1,5 @@
-## 📄 VOAAB_summary.md (Revealer)
-
-**Who is the Revealer?**  
+# Revealer
+## Who is the Revealer?
 **Code: V-O-A-A-B**
 
 The Revealer is the bold truth-teller — outgoing, intuitive, and energized by uncovering what lies beneath the surface. They don’t shy away from the hidden, the raw, or the complex — they *seek it out*, not to sensationalize it, but to *set it free*. Their presence invites honesty, transformation, and a deeper kind of connection.

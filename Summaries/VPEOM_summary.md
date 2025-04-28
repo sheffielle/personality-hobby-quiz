@@ -1,6 +1,5 @@
-## 📄 VPEOM_summary.md (Scout)
-
-**Who is the Scout?**  
+# Scout
+## Who is the Scout?
 **Code: V-P-E-O-M**
 
 The Scout is the agile forerunner — energetic, perceptive, and always on the edge of what’s next. They don’t wait to be told where to go — they *go first*. Driven by exploration and grounded observation, Scouts are the ones who test the trail before anyone else even knows there’s a path.

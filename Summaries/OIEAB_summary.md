@@ -1,4 +1,5 @@
-## 🧭 Who is the Pathseeker?  
+# Pathseeker
+## Who is the Pathseeker?
 **Code: O-I-E-A-B**
 
 The Pathseeker is the intuitive explorer — curious, adventurous, and deeply invested in *discovering new possibilities, paths, and ways of being*. They don’t just wander aimlessly — they *search with purpose, seeking new experiences and insights that lead them toward greater personal growth and understanding*.

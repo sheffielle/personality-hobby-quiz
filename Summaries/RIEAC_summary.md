@@ -1,6 +1,5 @@
-# RIEAC_summary.md (Sojourn)
-
-**Who is the Sojourn?**  
+# Sojourn
+## Who is the Sojourn?
 **Code: R-I-E-A-C**
 
 The Sojourn is presence with purpose — gentle, wise, and quietly impactful. They don’t cling, dominate, or demand — they *move through with meaning*. Their strength lies in their ability to offer depth in brief moments, to enter a space with reverence and leave it *better than they found it*.

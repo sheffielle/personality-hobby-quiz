@@ -1,6 +1,5 @@
-## 📄 VPAOM_summary.md (Beacon)
-
-**Who is the Beacon?**  
+# Beacon
+## Who is the Beacon?
 **Code: V-P-A-O-M**
 
 The Beacon is the radiant guide — inspiring, empathetic, and deeply dedicated to lighting the way for others. They don’t just show the way; they *illuminate paths with warmth, kindness, and clarity*, helping others to see what’s possible, even when the journey feels uncertain. Whether they’re offering guidance in times of doubt or cheering others on as they reach for their goals, Beacons are there to ensure that no one is left in the dark.

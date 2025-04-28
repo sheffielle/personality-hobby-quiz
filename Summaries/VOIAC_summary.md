@@ -1,6 +1,5 @@
-## 📄 VOIAC_summary.md (Upriser)
-
-**Who is the Upriser?**  
+# Upriser
+## Who is the Upriser?
 **Code: V-O-I-A-C**
 
 The Upriser is the quiet catalyst — introspective, principled, and fiercely devoted to rising up *when something must change*. They don’t stir conflict for its own sake. But when the moment calls for integrity, justice, or transformation, they are *unshakable*. Their power doesn’t come from volume — it comes from *conviction lived out over time*.

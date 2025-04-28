@@ -1,6 +1,5 @@
-# RIESB_summary.md (Mornroot)
-
-**Who is the Mornroot?**  
+# Mornroot
+## Who is the Mornroot?
 **Code: R-I-E-S-B**
 
 The Mornroot is grounded optimism — steady, sincere, and quietly luminous. They don’t announce change — they *embody its beginnings*. Their strength lies in their ability to combine realism with hope, to stay rooted even while reaching toward something better. They are the first green shoot after a long winter — *the soft beginning of something beautiful*.

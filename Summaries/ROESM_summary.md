@@ -1,6 +1,5 @@
-# ROESM_summary.md (Waylight)
-
-**Who is the Waylight?**  
+# Waylight
+## Who is the Waylight?
 **Code: R-O-E-S-M**
 
 The Waylight is gentle guidance embodied — insightful, humble, and quietly visionary. They don’t push others forward — they *light the path ahead, then walk it patiently alongside them*. Their strength lies in their ability to sense what’s emerging and invite others toward it without force. They don’t lead with urgency — they *lead with invitation*.

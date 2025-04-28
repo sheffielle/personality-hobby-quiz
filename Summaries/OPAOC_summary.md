@@ -1,4 +1,5 @@
-## 🗺️ Who is the Planner?
+# Planner
+## Who is the Planner?
 
 Some people live in the present. The Planner lives in the future — not as a dreamer, but as an architect. While others react, they *prepare*. Their world is built on foresight and thoughtful alignment, quietly setting the stage for others to shine.
 

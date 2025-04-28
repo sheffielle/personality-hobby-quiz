@@ -1,4 +1,5 @@
-## ☀️ Who is the Uplifter?  
+# Uplifter
+## Who is the Uplifter?
 **Code: O-P-E-S-C**
 
 The Uplifter is the bright encourager — high-energy, affirming, and deeply committed to *raising the emotional climate of whatever space they’re in*. They don’t just want people to feel good — they *want people to feel alive*.

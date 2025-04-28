@@ -1,4 +1,5 @@
-## 🔥 Who is the Torchbearer?  
+# Torchbearer
+## Who is the Torchbearer?
 **Code: O-O-I-S-M**
 
 The Torchbearer is the inspiring leader — courageous, visionary, and deeply driven by *lighting the way for others, carrying a torch of possibility and hope through the darkest of times*. They don’t just lead — they *show others what’s possible when they believe in something greater*.

@@ -1,6 +1,5 @@
-# VOEOB_summary.md (Threadsmith)
-
-**Who is the Threadsmith?**  
+# Threadsmith
+## Who is the Threadsmith?
 **Code: V-O-E-O-B**
 
 The Threadsmith is a weaver of insight — emotionally attuned, unorthodox, and endlessly expressive. They don’t follow blueprints; they craft meaning stitch by stitch, sensing the tension in a moment and translating it into narrative, concept, or form.

@@ -1,6 +1,5 @@
-# RPASM_summary.md (Mindkeeper)
-
-**Who is the Mindkeeper?**  
+# Mindkeeper
+## Who is the Mindkeeper?
 **Code: R-P-A-S-M**
 
 The Mindkeeper is thoughtful preservation — grounded, reflective, and deeply committed to safeguarding wisdom. They don’t just hold knowledge; they protect it and make sure it’s accessible to others when needed. Their strength lies in their ability to help others return to their center by offering wisdom, perspective, and clarity in times of confusion.

@@ -1,4 +1,5 @@
-## 🩺 Who is the Thoughtmender?  
+# Thoughtmender
+## Who is the Thoughtmender?
 **Code: O-O-A-A-C**
 
 The Thoughtmender is the intellectual healer — gentle, introspective, and devoted to *tending to broken ideas, fragmented beliefs, and the quiet damage done by doubt or distortion*. They don’t challenge to argue — they *restore clarity where confusion has taken root*.

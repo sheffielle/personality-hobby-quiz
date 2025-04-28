@@ -1,4 +1,5 @@
-## 🎯 Who is the Tactician?  
+# Tactician
+## Who is the Tactician?
 **Code: O-I-E-S-M**
 
 The Tactician is the strategic planner — sharp, focused, and deeply committed to *finding the most effective, efficient ways to achieve goals and solve problems*. They don’t just act — they *carefully evaluate their options, weigh the potential outcomes, and devise plans that ensure success*.

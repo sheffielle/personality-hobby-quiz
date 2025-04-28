@@ -1,6 +1,5 @@
-# VIEAC_summary.md (Scaleholder)
-
-**Who is the Scaleholder?**  
+# Scaleholder
+## Who is the Scaleholder?
 **Code: V-I-E-A-C**
 
 The Scaleholder is balanced judgment — thoughtful, impartial, and deeply committed to fairness. They don’t rush to conclusions or favor one side over another. Instead, they weigh ideas, intentions, and outcomes with careful consideration, seeking to understand all perspectives before making a decision. Their strength lies in their ability to see things from multiple angles and ensure that all sides are given fair treatment.

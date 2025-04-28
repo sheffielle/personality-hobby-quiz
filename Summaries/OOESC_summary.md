@@ -1,4 +1,5 @@
-## 👂 Who is the Listener?  
+# Listener
+## Who is the Listener?
 **Code: O-O-E-S-C**
 
 The Listener is the thoughtful observer — patient, observant, and deeply attuned to *the emotional and social dynamics around them*. They don’t rush to speak — they *take the time to understand, absorb, and then offer what is most needed*.

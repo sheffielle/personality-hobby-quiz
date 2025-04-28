@@ -1,4 +1,5 @@
-## 🤝 Who is the Negotiator?  
+# Negotiator
+## Who is the Negotiator?
 **Code: O-P-I-A-M**
 
 The Negotiator is the tension balancer — composed, strategic, and gifted in *finding terms where everyone walks away with dignity and momentum*. They don’t rush to yes — they *engineer durable, mutual benefit*.

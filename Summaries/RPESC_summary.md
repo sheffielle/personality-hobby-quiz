@@ -1,6 +1,5 @@
-# RPESC_summary.md (Brightward)
-
-**Who is the Brightward?**  
+# Brightward
+## Who is the Brightward?
 **Code: R-P-E-S-C**
 
 The Brightward is radiant grace — hopeful, kind-hearted, and quietly inspiring. They don’t just seek light — they share it, casting warmth and encouragement into every space they enter. Their strength lies in their ability to remain positive without being naive, and grounded without being heavy. They see what’s possible — and gently invite others to believe in it too.

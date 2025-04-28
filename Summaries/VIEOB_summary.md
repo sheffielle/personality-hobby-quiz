@@ -1,6 +1,5 @@
-# VIEOB_summary.md (Lantern)
-
-**Who is the Lantern?**  
+# Lantern
+## Who is the Lantern?
 **Code: V-I-E-O-B**
 
 The Lantern is quiet illumination — guiding, steady, and always present when needed most. They don’t seek to overpower or dominate; they simply shine, casting light in dark places and providing a sense of direction when it’s needed most. Their presence is a beacon of safety, letting others know that they are not alone in their journey.

@@ -1,6 +1,5 @@
-## 📄 VOAAC_summary.md (Advisor)
-
-**Who is the Advisor?**  
+# Advisor
+## Who is the Advisor?
 **Code: V-O-A-A-C**
 
 The Advisor is the calm compass — outgoing, composed, and instinctively oriented toward wisdom in motion. They don’t bark orders or chase authority — they *guide from the side*, offering insight at the moment it’s needed most. Others might lead the charge, but the Advisor is who people turn to when it’s time to *think things through*.

@@ -1,4 +1,5 @@
-## 🛠 Who is the Formcrafter?  
+# Formcrafter
+## Who is the Formcrafter?
 **Code: O-I-A-O-M**
 
 The Formcrafter is the meticulous creator — analytical, patient, and driven by *the desire to build systems and structures that work* in both the tangible and abstract realms. They don’t just design — they *carefully craft solutions that are sustainable, efficient, and effective*.

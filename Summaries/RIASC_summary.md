@@ -1,6 +1,5 @@
-# RIASC_summary.md (Steadfast)
-
-**Who is the Steadfast?**  
+# Steadfast
+## Who is the Steadfast?
 **Code: R-I-A-S-C**
 
 The Steadfast is quiet strength — firm, compassionate, and unwavering. They don’t proclaim their values — they *embody them*. Their strength isn’t loud or showy — it’s *enduring*. They hold the line, hold the heart, and hold space — even when it’s hard. Especially when it’s hard.

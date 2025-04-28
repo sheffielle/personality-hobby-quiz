@@ -1,6 +1,5 @@
-# VOESB_summary.md (Quietforce)
-
-**Who is the Quietforce?**  
+# Quietforce
+## Who is the Quietforce?
 **Code: V-O-E-S-B**
 
 The Quietforce is calm power — gentle, perceptive, and quietly transformative. They don’t raise their voice to be heard; they shift the room simply by being in it. Their strength is never loud, but always felt. With subtlety and sincerity, they influence without control, support without spectacle, and move people from within.

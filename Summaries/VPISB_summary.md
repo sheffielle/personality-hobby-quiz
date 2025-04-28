@@ -1,6 +1,5 @@
-## 📄 VPISB_summary.md (Analyst)
-
-**Who is the Analyst?**  
+# Analyst
+## Who is the Analyst?
 **Code: V-P-I-S-B**
 
 The Analyst is the calm processor — introspective, rational, and quietly rigorous. They don’t leap to conclusions — they *work through them*. Their world is built on logic, consistency, and clarity. They are the ones who pause, sift through the noise, and emerge with insights others missed.

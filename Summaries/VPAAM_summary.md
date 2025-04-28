@@ -1,6 +1,5 @@
-## 📄 VPAAM_summary.md (Instructor)
-
-**Who is the Instructor?**  
+# Instructor
+## Who is the Instructor?
 **Code: V-P-A-A-M**
 
 The Instructor is the structured nurturer — patient, principled, and deeply devoted to helping others grow through clear guidance and firm support. They don’t just share knowledge — they *build foundations*, brick by brick, ensuring that others can rise with confidence and competence.

@@ -1,6 +1,5 @@
-## 📄 VPEAM_summary.md (Systemist)
-
-**Who is the Systemist?**  
+# Systemist
+## Who is the Systemist?
 **Code: V-P-E-A-M**
 
 The Systemist is the architect of function — expressive, pragmatic, and strategically attuned to complexity. They see not just parts, but *the pattern beneath the parts*. While others get tangled in details, the Systemist zooms out and asks: *How does this all fit together — and how can it work better?*

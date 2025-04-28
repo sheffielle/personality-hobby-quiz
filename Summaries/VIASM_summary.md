@@ -1,6 +1,5 @@
-# VIASM_summary.md (Nightwatch)
-
-**Who is the Nightwatch?**  
+# Nightwatch
+## Who is the Nightwatch?
 **Code: V-I-A-S-M**
 
 The Nightwatch is quiet vigilance — alert, watchful, and endlessly protective. They don’t seek the spotlight, but they stand ready in the shadows, making sure others are safe. Their presence is steady, their loyalty unshakeable. While others sleep, they stay awake, guarding what matters most.

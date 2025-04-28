@@ -1,6 +1,5 @@
-## 📄 VOASC_summary.md (Outliner)
-
-**Who is the Outliner?**  
+# Outliner
+## Who is the Outliner?
 **Code: V-O-A-S-C**
 
 The Outliner is the structural strategist — outgoing, grounded, and deeply committed to making sense out of chaos. They don’t just organize tasks — they *organize possibilities*. To an Outliner, clarity is power. They’re the kind of person who can take a messy brainstorm, a half-formed plan, or a nebulous dream and turn it into a *sequence, a system, a strategy*.

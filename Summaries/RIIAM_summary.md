@@ -1,6 +1,5 @@
-# RIIAM_summary.md (Glimmerpost)
-
-**Who is the Glimmerpost?**  
+# Glimmerpost
+## Who is the Glimmerpost?
 **Code: R-I-I-A-M**
 
 The Glimmerpost is subtle guidance — gentle, grounded, and quietly luminous. They don’t claim to know the way — they *light up just enough of it*. Their strength lies in reassurance rather than instruction. In being the calm in uncertainty. The voice you didn’t know you needed until it was the only one you could hear.

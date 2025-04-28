@@ -1,6 +1,5 @@
-# RIEAB_summary.md (Flintline)
-
-**Who is the Flintline?**  
+# Flintline
+## Who is the Flintline?
 **Code: R-I-E-A-B**
 
 The Flintline is spark in stillness — intense, composed, and powerfully illuminating. They don’t shout to be heard — they *ignite thought with presence alone*. Their strength lies in their capacity to provoke clarity, not through pressure, but through calm conviction. They carry fire in their stillness — *transforming minds without raising their voice*.

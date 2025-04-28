@@ -1,4 +1,5 @@
-## 🚀 Who is the Maverick?  
+# Maverick
+## Who is the Maverick?
 **Code: O-I-A-A-B**
 
 The Maverick is the independent innovator — bold, dynamic, and not afraid to *challenge the status quo in pursuit of progress and truth*. They don’t just follow paths — they *create new roads that others can follow*.

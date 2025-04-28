@@ -1,4 +1,5 @@
-## 💡 Who is the Inventor?  
+# Inventor
+## Who is the Inventor?
 **Code: O-I-A-S-B**
 
 The Inventor is the creative pioneer — imaginative, resourceful, and constantly driven by *the urge to innovate and create new solutions to problems*. They don’t just think about how things are — they *dream of how they could be better, more efficient, and more impactful*.

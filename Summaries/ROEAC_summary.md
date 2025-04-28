@@ -1,6 +1,5 @@
-# ROEAC_summary.md (Holdfast)
-
-**Who is the Holdfast?**  
+# Holdfast
+## Who is the Holdfast?
 **Code: R-O-E-A-C**
 
 The Holdfast is steadfast presence — calm, unshakable, and deeply principled. They don’t seek control — they *offer anchoring*. Their strength lies in their reliability when it matters most. In a crisis, they don’t flinch. In chaos, they don’t waver. They are the quiet ground others instinctively brace against.

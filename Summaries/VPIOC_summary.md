@@ -1,6 +1,5 @@
-## 📄 VPIOC_summary.md (Waymaker)
-
-**Who is the Waymaker?**  
+# Waymaker
+## Who is the Waymaker?
 **Code: V-P-I-O-C**
 
 The Waymaker is the quiet visionary — perceptive, principled, and deeply attuned to unseen paths. They don’t charge ahead blindly. Instead, they pause, *listen*, and notice the faint tracks others have missed. To the Waymaker, every choice is an intersection, and every intersection holds the potential for transformation — *if we’re willing to walk it with care*.

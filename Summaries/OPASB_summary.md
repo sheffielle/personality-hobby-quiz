@@ -1,4 +1,5 @@
-## ⚙️ Who is the Operator?  
+# Operator
+## Who is the Operator?
 **Code: O-P-A-S-B**
 
 The Operator is the tactical executor — focused, dependable, and hands-on with *turning plans into practical action*. They don’t theorize endlessly — they *engage directly and make things happen through grounded effort*.

@@ -1,6 +1,5 @@
-# RPESB_summary.md (Lighthouse)
-
-**Who is the Lighthouse?**  
+# Lighthouse
+## Who is the Lighthouse?
 **Code: R-P-E-S-B**
 
 The Lighthouse is steady guidance — grounded, emotionally attuned, and unwavering in their clarity. They don’t chase others into the storm — they stay rooted, shining a dependable light through life’s uncertainty. Their strength lies in their ability to stay calm and clear even when others feel lost, offering quiet presence and emotional direction without demand.

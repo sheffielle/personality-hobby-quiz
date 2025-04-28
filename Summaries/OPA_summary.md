@@ -1,4 +1,5 @@
-## 🎻 Who is the Orchestrator?  
+# Orchestrator
+## Who is the Orchestrator?
 **Code: O-I-A-O-B**
 
 The Orchestrator is the visionary strategist — organized, proactive, and highly skilled at *coordinating complex systems and ensuring every moving part works in harmony*. They don’t just manage — they *design systems that allow everything to flow seamlessly together*.

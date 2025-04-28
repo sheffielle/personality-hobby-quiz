@@ -1,6 +1,5 @@
-# VIAAC_summary.md (Heartthread)
-
-**Who is the Heartthread?**  
+# Heartthread
+## Who is the Heartthread?
 **Code: V-I-A-A-C**
 
 The Heartthread is emotional intuition embodied — soft-spoken, deeply tuned, and impossibly attuned to others’ inner worlds. They don’t just connect with people — they *resonate* with them, sometimes before a word is exchanged. Their presence feels like a signal quietly received by the soul: “You are not alone here.”

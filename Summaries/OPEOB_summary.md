@@ -1,4 +1,5 @@
-## 🛡️ Who is the Guardian?  
+# Guardian
+## Who is the Guardian?
 **Code: O-P-E-O-B**
 
 The Guardian is the steadfast protector — grounded, principled, and deeply driven by *a sense of duty to care for people and uphold what’s right*. They don’t need recognition — they *need to know the people and values they love are safe*.

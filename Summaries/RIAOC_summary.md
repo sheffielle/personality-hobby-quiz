@@ -1,6 +1,5 @@
-# RIAOC_summary.md (Stillhold)
-
-**Who is the Stillhold?**  
+# Stillhold
+## Who is the Stillhold?
 **Code: R-I-A-O-C**
 
 The Stillhold is gentle fortitude — quiet, principled, and unshakably loving. They don’t proclaim their values — they *live them*. Their strength lies in quiet consistency, in holding space for what matters most without needing to defend it loudly. Their love is steady, protective, and enduring — *a sanctuary that doesn’t sway*.

@@ -1,6 +1,5 @@
-## 📄 VPEOB_summary.md (Rebuilder)
-
-**Who is the Rebuilder?**  
+# Rebuilder
+## Who is the Rebuilder?
 **Code: V-P-E-O-B**
 
 The Rebuilder is the resilient restorer — energetic, pragmatic, and quietly transformative. They don't fear what’s broken — they *see potential in the pieces*. Where others flinch at collapse, the Rebuilder leans in, rolls up their sleeves, and says, *“Okay — let’s begin again.”*

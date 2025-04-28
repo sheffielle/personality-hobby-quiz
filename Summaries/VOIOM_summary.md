@@ -1,6 +1,5 @@
-## 📄 VOIOM_summary.md (Regulator)
-
-**Who is the Regulator?**  
+# Regulator
+## Who is the Regulator?
 **Code: V-O-I-O-M**
 
 The Regulator is the quiet stabilizer — observant, systematic, and attuned to the subtle rhythms that keep things running smoothly. They are protectors of process and quiet champions of consistency. While others chase chaos or flare with vision, Regulators keep things from falling apart — not through force, but *through steadiness*.

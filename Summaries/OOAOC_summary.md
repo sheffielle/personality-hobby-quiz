@@ -1,4 +1,5 @@
-## 🛤️ Who is the Pathbuilder?  
+# Pathbuilder
+## Who is the Pathbuilder?
 **Code: O-O-A-O-C**
 
 The Pathbuilder is the structured visionary — intentional, disciplined, and purpose-driven, with a unique gift for *turning bold ideas into practical action*. They don’t just imagine the future — they *design the step-by-step roadmap to get there*.

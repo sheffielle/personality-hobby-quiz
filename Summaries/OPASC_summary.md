@@ -1,4 +1,5 @@
-## 🛠️ Who is the Troubleshooter?  
+# Troubleshooter
+## Who is the Troubleshooter?
 **Code: O-P-A-S-C**
 
 The Troubleshooter is the real-time problem solver — sharp, observant, and always scanning for *what’s not working and how to fix it fast*. They don’t panic — they *diagnose, repair, and recalibrate on the fly*.

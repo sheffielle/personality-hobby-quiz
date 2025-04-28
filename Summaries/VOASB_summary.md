@@ -1,6 +1,5 @@
-## 📄 VOASB_summary.md (Fixer)
-
-**Who is the Fixer?**  
+# Fixer
+## Who is the Fixer?
 **Code: V-O-A-S-B**
 
 The Fixer is the energetic resolver — outgoing, hands-on, and driven by the question: *“What’s broken, and how can I help?”* They are action-oriented to the core, rarely content with sitting on the sidelines while problems pile up. For a Fixer, every mess is a puzzle, every challenge a doorway. They *don’t just want to understand* — they want to *make it work again*.

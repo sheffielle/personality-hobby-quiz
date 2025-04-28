@@ -1,4 +1,5 @@
-## 🎶 Who is the Composer?  
+# Composer
+## Who is the Composer?
 **Code: O-I-A-S-M**
 
 The Composer is the creative architect — thoughtful, systematic, and deeply invested in *creating harmony and balance* in both art and life. They don’t just create — they *compose beauty through meticulous thought and innovative design*.

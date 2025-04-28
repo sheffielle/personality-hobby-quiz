@@ -1,6 +1,5 @@
-## 📄 VPASB_summary.md (Balancer)
-
-**Who is the Balancer?**  
+# Balancer
+## Who is the Balancer?
 **Code: V-P-A-S-B**
 
 The Balancer is the quiet harmonizer — measured, grounded, and deeply committed to keeping life in thoughtful equilibrium. They don’t chase extremes. Instead, they *cultivate steady rhythms*, guiding themselves and others toward stability, health, and clarity. In a world full of chaos and rapid swings, the Balancer’s presence feels like an exhale.

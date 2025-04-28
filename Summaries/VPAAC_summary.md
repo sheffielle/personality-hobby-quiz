@@ -1,6 +1,5 @@
-## 📄 VPAAC_summary.md (Initiator)
-
-**Who is the Initiator?**  
+# Initiator
+## Who is the Initiator?
 **Code: V-P-A-A-C**
 
 The Initiator is the quiet spark — thoughtful, strategic, and driven by a subtle but powerful desire to *begin things that matter*. They don’t need a spotlight to lead; their leadership is foundational, woven into the very first step of any meaningful process. Where others hesitate, Initiators *lay the groundwork*. Where others ask “who will go first?”, Initiators are already building.

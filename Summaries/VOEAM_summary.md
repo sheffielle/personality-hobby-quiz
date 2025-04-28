@@ -1,6 +1,5 @@
-# VOEAM_summary.md (Brightmind)
-
-**Who is the Brightmind?**  
+# Brightmind
+## Who is the Brightmind?
 **Code: V-O-E-A-M**
 
 The Brightmind is radiant intellect — sharp, expressive, and effortlessly uplifting. Their brilliance isn’t cold or distant; it’s warm, engaging, and alive. They light up conversations with insight, not to prove their worth, but to spark curiosity in others. People don’t just admire Brightminds — they feel brighter around them.

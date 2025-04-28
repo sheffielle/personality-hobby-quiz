@@ -1,6 +1,5 @@
-# ROASC_summary.md (Kindwright)
-
-**Who is the Kindwright?**  
+# Kindwright
+## Who is the Kindwright?
 **Code: R-O-A-S-C**
 
 The Kindwright is warmth in motion — humble, consistent, and quietly life-giving. They don’t seek grandeur; they *cultivate goodness* in small, steady ways. Their strength lies in their ability to improve the emotional environment wherever they go — not by force, but by consistent, intentional kindness. They believe that tiny acts, done well and often, build something sacred.
