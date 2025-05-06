@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', () => {
         summaryDiv.style.flexDirection = 'column';
         summaryDiv.style.alignItems = 'center';
         summaryDiv.style.justifyContent = 'center';
-        fetch(`../../data/summaries/${code}_summary.md`)
+        fetch(`../../summaries/${code}_summary.md`)
             .then(r => r.ok ? r.text() : Promise.reject())
             .then(md => {
             summaryDiv.innerHTML = marked.parse(md);
