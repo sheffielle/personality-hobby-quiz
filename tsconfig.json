@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    // 1. What JavaScript to produce
+    "target": "es2020",
+    "module": "esnext",       // Keep ES module syntax (good for modern bundlers if needed)
+
+    // 2. What global types to include
+    "lib": [
+      "dom",                  // Include web APIs (document, fetch, FormData, etc.)
+      "es2020"
+    ],
+
+    // 3. How strict the type checking should be
+    "strict": true,            // Turn on all recommended strictness checks
+    "noImplicitAny": true,     // Force you to define types when TypeScript can't guess
+    "strictNullChecks": true,  // Be careful with null/undefined
+
+    // 4. Where the compiled JavaScript should go
+    "outDir": "static/js",
+
+    // 5. Other helpful settings
+    "forceConsistentCasingInFileNames": true, // Good for catching typos on case-sensitive systems
+    "skipLibCheck": true                      // Skip checking inside node_modules (faster)
+  },
+
+  // What files to include
+  "include": [
+    "static/ts/**/*.ts"
+  ],
+
+  // Optional: what files to exclude
+  "exclude": [
+    "node_modules"             // Never compile dependencies
+  ]
+}

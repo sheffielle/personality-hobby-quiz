@@ -4,32 +4,53 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Personality Quiz</title>
-  <link rel="stylesheet" href="style.css" />
-  <!-- Markdown parser -->
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="static/css/style.css" />
+  <link rel="icon" href="static/assets/WHIMZI_submark.png" type="image/png" />
+
 </head>
 <body>
   <div class="background">
-    <!-- Page 1: Quiz -->
-    <div class="page active" id="page-quiz">
-      <div class="quiz-card">
-        <h1>Who Are You?</h1>
-        <p>Answer each question by selecting the option that best describes you.</p>
-        <form id="quiz-form"></form>
-        <button type="button" id="submit-btn">Submit</button>
+
+    <!-- Start Screen -->
+    <div id="start-screen" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
+      <div class="start-screen-card">
+        <img src="static/assets/WHIMZI_logo.png" alt="Whimzi Logo" style="width: 240px; margin-bottom: 24px;">
+        <h1 class="quiz-title">Discover Who You Are</h1>
+        <p class="description whimzi-desc">Answer each question to reveal your personality code.</p>
+        <p style="margin-top: 8px; font-size: 1rem; font-weight: 400; font-style: italic; color: #5c473e;">
+          Learn more about your traits and preferences.
+        </p>
+        <button id="start-btn">Start</button>
       </div>
     </div>
 
-    <!-- Page 2: Summary -->
-    <div class="page" id="page-summary">
+    <!-- Quiz Page -->
+    <div id="quiz-page" style="display: none;">
+      <div class="quiz-card">
+        <form id="quiz-form">
+          <!-- questions inserted here -->
+        </form>
+        <div class="nav-buttons">
+          <button type="button" id="back-btn">&#8592;</button>
+          <button type="button" id="next-btn">&#8594;</button>
+        </div>
+        <button type="button" id="submit-btn" style="display: none;">Submit</button>
+      </div>
+    </div>
+
+    <!-- Summary Page -->
+    <div id="summary-page" style="display: none;">
       <div class="quiz-card">
         <h1 id="code-title"></h1>
         <div id="summary-content"></div>
         <button type="button" id="retake-btn">Retake Quiz</button>
       </div>
     </div>
+
   </div>
 
-  <script src="script.js"></script>
+  <!-- ✅ Scripts moved to end to ensure DOM is loaded first -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="static/js/script.js"></script>
 </body>
 </html>

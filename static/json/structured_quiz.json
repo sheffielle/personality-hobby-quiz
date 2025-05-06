@@ -1,0 +1,818 @@
+{
+  "Learning Curve": {
+    "question": "When you're picking up a new hobby, how important is it that it feels easy to start?",
+    "values": {
+      "Easy": [
+        "I want it to be super easy and intuitive"
+      ],
+      "Moderate": [
+        "I’m okay with a small learning curve"
+      ],
+      "Hard": [
+        "I enjoy a challenge right from the start"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Intellectual Challenge": {
+    "question": "Do you like hobbies that really stretch your thinking and challenge your mind?",
+    "values": {
+      "High": [
+        "Absolutely, I love solving complex problems"
+      ],
+      "Medium": [
+        "Sometimes, I enjoy a moderate challenge"
+      ],
+      "Low": [
+        "Not really, I prefer to keep things simple"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Initial Time Investment": {
+    "question": "How much time are you willing to invest upfront when starting a new hobby?",
+    "values": {
+      "Low": [
+        "I’d rather jump in right away with minimal prep"
+      ],
+      "Medium": [
+        "I’m okay spending a few days getting set up"
+      ],
+      "High": [
+        "I enjoy deep dives and don’t mind a big initial time commitment"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Technical Skill Requirement": {
+    "question": "Do you enjoy hobbies that involve technical know-how or using specialized tools?",
+    "values": {
+      "High": [
+        "Yes, I love working with technical skills or gear"
+      ],
+      "Medium": [
+        "I’m okay with learning a few things along the way"
+      ],
+      "Low": [
+        "I prefer hobbies that don’t require much technical knowledge"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Patience Requirement": {
+    "question": "Do you enjoy hobbies that reward patience and long-term focus?",
+    "values": {
+      "High": [
+        "Yes, I enjoy slow-paced hobbies that take time to master"
+      ],
+      "Medium": [
+        "Somewhat — I can be patient when I need to be"
+      ],
+      "Low": [
+        "Not really — I like things that move quickly or give fast results"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Initial Mentorship Required": {
+    "question": "When starting something new, how much guidance or mentorship do you prefer?",
+    "values": {
+      "High": [
+        "I really appreciate having someone guide me early on"
+      ],
+      "Medium": [
+        "I’m fine with occasional help or tutorials"
+      ],
+      "Low": [
+        "I like figuring things out completely on my own"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Flexibility in Skill Level Advancement": {
+    "question": "Do you enjoy hobbies where you can grow at your own pace or progress quickly if you want to?",
+    "values": {
+      "High": [
+        "Yes, I like having the freedom to grow at my own speed"
+      ],
+      "Low": [
+        "I prefer a clear, step-by-step path with structured milestones"
+      ],
+      "Medium": [
+        "I’m okay either way, as long as there’s some challenge"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Creativity Level Involved": {
+    "question": "When picking a hobby, how much do you enjoy using your imagination or expressing yourself creatively?",
+    "values": {
+      "High": [
+        "Very important — I want to express myself creatively"
+      ],
+      "Medium": [
+        "Somewhat — I enjoy a bit of creativity here and there"
+      ],
+      "Low": [
+        "Not that important — I prefer structured or practical activities"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Creativity Encouragement": {
+    "question": "Do you enjoy hobbies that inspire your creativity and help you come up with fresh ideas?",
+    "values": {
+      "High": [
+        "Absolutely — I love when a hobby pushes me to express myself"
+      ],
+      "Medium": [
+        "Somewhat — I appreciate a little creative space"
+      ],
+      "Low": [
+        "Not really — I prefer following clear steps or rules"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "DIY/Handmade Focus": {
+    "question": "Do you enjoy hands-on hobbies where you get to make or build things yourself?",
+    "values": {
+      "High": [
+        "Yes, I love creating things from scratch"
+      ],
+      "Medium": [
+        "Sometimes — I enjoy occasional DIY projects"
+      ],
+      "Low": [
+        "Not really — I prefer ready-made or digital activities"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Emotional Therapeutic Value": {
+    "question": "Do you find value in hobbies that help you relax emotionally or feel more centered?",
+    "values": {
+      "High": [
+        "Yes, I love hobbies that help me unwind and feel emotionally refreshed"
+      ],
+      "Medium": [
+        "Somewhat — it’s nice if a hobby helps me decompress"
+      ],
+      "Low": [
+        "Not really — I don’t need a hobby to be emotionally therapeutic"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Artistic Output vs Performance Focus": {
+    "question": "Do you enjoy hobbies where you create something artistic, or ones where you perform for others?",
+    "values": {
+      "Artistic": [
+        "I prefer artistic creation — painting, writing, crafting, etc."
+      ],
+      "Mixed": [
+        "A mix of both sounds great to me"
+      ],
+      "Performance": [
+        "I enjoy performing — music, theater, competitions, etc."
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Indoor vs Outdoor": {
+    "question": "Do you prefer hobbies that keep you indoors, take you outside, or give you a bit of both?",
+    "values": {
+      "Flexible": [
+        "I like the flexibility to do both indoor and outdoor activities"
+      ],
+      "Indoor": [
+        "I prefer hobbies I can enjoy indoors"
+      ],
+      "Outdoor": [
+        "I love being outdoors for my hobbies"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Access to Facilities Needed": {
+    "question": "How much do you care if a hobby requires special facilities like a studio, gym, or workshop?",
+    "values": {
+      "Low": [
+        "It’s a deal-breaker — I want to avoid needing special facilities"
+      ],
+      "Medium": [
+        "It’s not ideal, but I’ll make it work if needed"
+      ],
+      "High": [
+        "I don’t mind — I’m happy to go wherever the hobby takes me"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Weather Dependency": {
+    "question": "Do you prefer hobbies you can enjoy in any weather, or do you like ones that depend on the outdoors?",
+    "values": {
+      "Low": [
+        "I prefer hobbies that are weather-independent"
+      ],
+      "Medium": [
+        "I don’t mind occasional weather constraints"
+      ],
+      "High": [
+        "I am not one to let weather stop me!"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Availability of Local Resources": {
+    "question": "How do you feel about the aspect of 'Availability of Local Resources' in a hobby?",
+    "values": {
+      "High": [
+        "High"
+      ],
+      "Low": [
+        "Low"
+      ],
+      "Medium": [
+        "Medium"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Seasonal Dependency": {
+    "question": "Does it matter to you if a hobby is only enjoyable during certain seasons?",
+    "values": {
+      "Low": [
+        "Yes — I prefer hobbies I can enjoy year-round"
+      ],
+      "Medium": [
+        "Somewhat — seasonal hobbies are fine if they’re worth it"
+      ],
+      "High": [
+        "Not at all — I love seasonal activities"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Space Requirements": {
+    "question": "Do you prefer hobbies that don’t take up much room, or are you fine needing a bit of space?",
+    "values": {
+      "Low": [
+        "I prefer compact hobbies that don’t require much space"
+      ],
+      "Medium": [
+        "I’m okay with some equipment or setup"
+      ],
+      "High": [
+        "I don’t mind hobbies that take up a lot of room"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Noise Level": {
+    "question": "Are you drawn to quiet, peaceful hobbies, or ones that might get a little loud?",
+    "values": {
+      "Low": [
+        "I definitely prefer quiet, peaceful hobbies"
+      ],
+      "Medium": [
+        "I’m fine with some occasional noise"
+      ],
+      "High": [
+        "I enjoy hobbies that are active and loud"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Environmental Impact": {
+    "question": "How important is it to you that your hobby has a low environmental impact?",
+    "values": {
+      "Low": [
+        "Very important — I try to minimize my impact"
+      ],
+      "Medium": [
+        "Somewhat important — I’m mindful but flexible"
+      ],
+      "High": [
+        "Not a big factor for me when choosing hobbies"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Exposure to Nature": {
+    "question": "Do you enjoy hobbies that help you connect with nature or spend more time outdoors?",
+    "values": {
+      "High": [
+        "Yes — I love being surrounded by nature during my hobbies"
+      ],
+      "Medium": [
+        "Somewhat — I enjoy occasional nature-based activities"
+      ],
+      "Low": [
+        "Not really — I prefer indoor or urban environments"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Equipment Requirement": {
+    "question": "Are you comfortable with hobbies that require a lot of gear or equipment to get started?",
+    "values": {
+      "High": [
+        "Yes — I don’t mind investing in equipment"
+      ],
+      "Medium": [
+        "Somewhat — I’m okay with some gear if it’s worth it"
+      ],
+      "Low": [
+        "Not really — I prefer hobbies that need little to no equipment"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Financial Risk Level": {
+    "question": "Are you okay with hobbies that may come with unexpected costs, like unplanned maintenance or occasional upgrades?",
+    "values": {
+      "Low": [
+        "I prefer low-risk hobbies with little chance of financial loss"
+      ],
+      "Medium": [
+        "I’m okay with moderate costs if there’s a payoff"
+      ],
+      "High": [
+        "I’m open to taking risks if the hobby is exciting"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Long-Term Cost Growth": {
+    "question": "Are you okay with hobbies that may become more expensive over time?",
+    "values": {
+      "High": [
+        "Yes — I'm fine with ongoing costs if I'm enjoying it"
+      ],
+      "Medium": [
+        "Somewhat — I prefer to keep an eye on spending"
+      ],
+      "Low": [
+        "No — I want to keep costs steady and predictable"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Resource Scarcity": {
+    "question": "Are you okay with hobbies that rely on rare or hard-to-find materials or tools?",
+    "values": {
+      "High": [
+        "Yes — I enjoy the challenge of tracking things down"
+      ],
+      "Medium": [
+        "Somewhat — I prefer when most things are easy to find"
+      ],
+      "Low": [
+        "No — I like hobbies that use readily available resources"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Potential for Monetization": {
+    "question": "Would you like your hobby to have the potential to earn money, or is that not important to you?",
+    "values": {
+      "High": [
+        "Yes — I’d love to turn my hobby into a side hustle or business"
+      ],
+      "Medium": [
+        "Maybe — I’d consider it if the opportunity came up"
+      ],
+      "Low": [
+        "No — I want my hobby to stay just for fun"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Physical Size of Equipment": {
+    "question": "Do you prefer hobbies that use compact gear, or are you fine with larger equipment?",
+    "values": {
+      "Large": [
+        "I’m totally fine with large, bulky equipment if needed"
+      ],
+      "Medium": [
+        "Medium-sized gear is okay as long as it’s manageable"
+      ],
+      "Small": [
+        "I prefer hobbies with small, easy-to-store tools"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Tool or Machine Dependence": {
+    "question": "Do you enjoy hobbies that rely on tools or machines, or do you prefer ones that are more hands-on?",
+    "values": {
+      "High": [
+        "Yes — I enjoy using tools, machines, or gadgets"
+      ],
+      "Medium": [
+        "Somewhat — I’m okay with occasional equipment use"
+      ],
+      "Low": [
+        "No — I prefer hobbies that are simple and hands-on"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Travel Requirement": {
+    "question": "Are you okay with hobbies that involve traveling to specific locations or events?",
+    "values": {
+      "High": [
+        "Yes — I enjoy getting out and traveling for my hobbies"
+      ],
+      "Medium": [
+        "Somewhat — I don’t mind the occasional trip"
+      ],
+      "Low": [
+        "No — I’d prefer hobbies I can do closer to home"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Flexibility in Scheduling": {
+    "question": "Do you prefer hobbies that can fit easily around your schedule, or ones with more structured timing?",
+    "values": {
+      "High": [
+        "I want full flexibility — I need to fit hobbies around a busy life"
+      ],
+      "Medium": [
+        "I’m okay with some regular time commitment"
+      ],
+      "Low": [
+        "I enjoy hobbies that have a consistent, set schedule"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Risk of Boredom Over Time": {
+    "question": "Do you prefer hobbies that keep you constantly interested, or are you okay with slower-paced ones?",
+    "values": {
+      "Low": [
+        "I need hobbies that keep me excited and fresh"
+      ],
+      "Medium": [
+        "I’m okay with some repetition if I enjoy the core activity"
+      ],
+      "High": [
+        "I don’t mind slow, repetitive hobbies as long as they’re relaxing"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Commitment to Routine Practice": {
+    "question": "Do you enjoy hobbies that involve regular practice, or prefer those you can pick up anytime?",
+    "values": {
+      "High": [
+        "I enjoy structured hobbies that involve steady practice"
+      ],
+      "Medium": [
+        "I’m okay with occasional routines but like some freedom"
+      ],
+      "Low": [
+        "I prefer hobbies I can dip into whenever I feel like it"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Physical Fitness Requirement": {
+    "question": "How physically active do you like your hobbies to be?",
+    "values": {
+      "High": [
+        "I enjoy highly active hobbies that get me moving"
+      ],
+      "Medium": [
+        "I don’t mind moderate physical activity"
+      ],
+      "Low": [
+        "I prefer low-effort hobbies that let me relax"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Risk Level": {
+    "question": "How much adventure or risk are you comfortable with in a hobby?",
+    "values": {
+      "High": [
+        "I love hobbies that offer a thrilling sense of risk"
+      ],
+      "Medium": [
+        "I’m okay with some moderate risk if it’s fun"
+      ],
+      "Low": [
+        "I prefer hobbies that are very safe and predictable"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Energy Level Needed": {
+    "question": "How much energy do you like to bring to your hobbies?",
+    "values": {
+      "High": [
+        "I love high-energy activities that keep me active and alert"
+      ],
+      "Low": [
+        "I prefer laid-back hobbies that are more restful"
+      ],
+      "Medium": [
+        "Somewhere in between — I enjoy a balanced pace"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Physical Danger Level": {
+    "question": "Are you comfortable with hobbies that come with a bit of physical risk or danger?",
+    "values": {
+      "High": [
+        "Yes — I enjoy the thrill of adventurous hobbies"
+      ],
+      "Medium": [
+        "Somewhat — a little risk is okay now and then"
+      ],
+      "Low": [
+        "No — I prefer hobbies that are physically safe and low-risk"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Dexterity/Hand Skill Needed": {
+    "question": "Do you enjoy hobbies that require fine hand skills, like crafting, woodworking, or detailed handiwork?",
+    "values": {
+      "High": [
+        "Yes — I love hobbies that involve a lot of hand precision and control"
+      ],
+      "Medium": [
+        "Somewhat — I enjoy it now and then"
+      ],
+      "Low": [
+        "Not really — I prefer hobbies with less hand skill required"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Physical Stamina Requirement": {
+    "question": "Do you enjoy hobbies that keep you physically active for long stretches, or do you prefer ones that let you rest more often?",
+    "values": {
+      "High": [
+        "I enjoy high-stamina hobbies that keep me moving"
+      ],
+      "Low": [
+        "I prefer relaxing activities that don’t wear me out"
+      ],
+      "Medium": [
+        "I’m somewhere in between — I like a bit of both"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Accessibility for Disabilities": {
+    "question": "Do you prefer hobbies that are easily accessible for people with physical or sensory disabilities?",
+    "values": {
+      "High": [
+        "Yes — accessibility is a top priority for me"
+      ],
+      "Medium": [
+        "Somewhat — I try to be mindful of it when possible"
+      ],
+      "Low": [
+        "No — it's not a major factor in my decision"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Physical Coordination Required": {
+    "question": "Do you enjoy hobbies that keep your hands moving and your reflexes sharp?",
+    "values": {
+      "High": [
+        "Yes — I enjoy hobbies that challenge my coordination"
+      ],
+      "Medium": [
+        "Somewhat — I don’t mind a bit of coordination work"
+      ],
+      "Low": [
+        "Not really — I prefer hobbies that don’t need much coordination"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Physical Age Adaptability": {
+    "question": "Do you prefer hobbies that are easier on the body and can be enjoyed at any age?",
+    "values": {
+      "High": [
+        "Yes — I like hobbies that stay accessible as I grow older"
+      ],
+      "Medium": [
+        "Somewhat — I try to be mindful of long-term physical demands"
+      ],
+      "Low": [
+        "Not really — I’m fine with more physically demanding hobbies"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Solo vs Group": {
+    "question": "Do you prefer hobbies you can enjoy on your own, with others, or either?",
+    "values": {
+      "Solo": [
+        "Solo — I enjoy hobbies I can do by myself"
+      ],
+      "Group": [
+        "Group — I love sharing hobbies with others"
+      ],
+      "Flexible": [
+        "Flexible — I’m comfortable with either solo or group settings"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Community Size": {
+    "question": "Do you prefer hobbies with a large community, a smaller tight-knit group, or something in between?",
+    "values": {
+      "Large": [
+        "Large — I enjoy being part of big communities"
+      ],
+      "Medium": [
+        "Medium — I like a balanced community size"
+      ],
+      "Small": [
+        "Small — I prefer smaller, more personal circles"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Competition Level": {
+    "question": "Do you like hobbies that have a competitive edge, or do you prefer more relaxed activities?",
+    "values": {
+      "High": [
+        "I enjoy competitive hobbies and the thrill of winning"
+      ],
+      "Medium": [
+        "A bit of competition is fun now and then"
+      ],
+      "Low": [
+        "I prefer hobbies that are low-pressure and chill"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Global vs Local Popularity": {
+    "question": "Do you prefer hobbies that are globally popular, locally loved, or somewhere in between?",
+    "values": {
+      "Global": [
+        "Global — I enjoy being part of a worldwide hobby scene"
+      ],
+      "Medium": [
+        "Medium — I like hobbies that have a solid following without being everywhere"
+      ],
+      "Local": [
+        "Local — I love hobbies that are more niche or community-based"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Peer Recognition Potential": {
+    "question": "Is it important to you that your hobby gives you a chance to be recognized or admired by others?",
+    "values": {
+      "High": [
+        "Yes — I enjoy hobbies where I can gain recognition or appreciation"
+      ],
+      "Medium": [
+        "Somewhat — it’s nice, but not necessary"
+      ],
+      "Low": [
+        "No — I prefer hobbies that are more personal and private"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Access to Online Communities": {
+    "question": "Do you enjoy hobbies where you can easily connect with others online through forums, groups, or social media?",
+    "values": {
+      "High": [
+        "Yes — I love the idea of sharing and learning from others online"
+      ],
+      "Medium": [
+        "Somewhat — I’ll check in occasionally but it’s not essential"
+      ],
+      "Low": [
+        "No — I prefer hobbies that stay offline and personal"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  },
+  "Cultural Relevance": {
+    "question": "Is it important to you that your hobby connects with your cultural identity or reflects your background?",
+    "values": {
+      "High": [
+        "Yes — I love hobbies that tie into my culture or heritage"
+      ],
+      "Medium": [
+        "Somewhat — I enjoy cultural connection but it’s not essential"
+      ],
+      "Low": [
+        "No — cultural relevance isn’t a major factor for me"
+      ],
+      "None": [
+        "Prefer not to answer"
+      ]
+    }
+  }
+}
